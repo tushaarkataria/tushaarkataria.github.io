@@ -1,11 +1,8 @@
 ---
-permalink: /
-title: "About Me"
-excerpt: "About me"
+permalink: /contact/
+title: "Contact"
+excerpt: "Contact me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 Below is my personal email. Please feel free to contact me regarding any questions.
