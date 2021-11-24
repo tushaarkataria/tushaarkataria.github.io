@@ -13,4 +13,6 @@ Spring 2017(Prof. Ranbabu Velmurugan)
 
 Responsibilities
 ======
-
+- Participated in the development of course material for the Lab Course
+- Helped students understand some important concepts in signal processing like sampling, filtering, FFT etc. via implementation on TMS320C5515, a Fixed Point Digital Signal Processor from Texas Instruments.
+- Grading and Exams
