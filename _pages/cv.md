@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Updated CV](http://academicpages.github.io/files/cv.pdf)
+[Updated CV](http://tushaarkataria.github.io/files/cv.pdf)
 
 Publications
 ======
