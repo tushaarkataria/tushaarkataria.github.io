@@ -1,7 +1,7 @@
 ---
-permalink: /contact/
-title: "Contact"
-excerpt: "Contact me"
+permalink: /other/
+title: "Other"
+excerpt: "Hobbies and Voluteering"
 author_profile: true
 ---
 
