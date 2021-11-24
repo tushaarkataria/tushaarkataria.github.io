@@ -6,5 +6,5 @@ excerpt: 'A thorough analysis of the ringing phenomenon, by experimenting with d
 date: 2020-04-01
 venue: 'Information Fusion'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1566253517304748'
-citation: ''
+citation: 'Vanmali, Ashish V., Tushar Kataria, Samrudha G. Kelkar, and Vikram M. Gadre. "Ringing artifacts in wavelet based image fusion: Analysis, measurement and remedies." Information Fusion 56 (2020): 39-69.'
 ---

@@ -6,5 +6,5 @@ excerpt: 'In the field of multi-data analysis and fusion, image fusion plays a v
 date: 2020-11-01
 venue: 'IJERT'
 paperurl: 'https://www.ijert.org/analysis-of-ringing-artifact-in-image-fusion-using-directional-wavelet-transforms'
-citation: ''
+citation: 'Ashish V. Vanmali, Tushar Kataria, Samrudha G. Kelkar, Vikram M. Gadre, “Analysis of Ringing Artifact In Image Fusion Using Directional Wavelet Transforms, ” in Proceedings of Vidyavardhini’s National Conference 2020 (Technical Advancements for Social Upliftments), International Journal of Engineering Research & Technology (IJERT), Vol. 9, Issue 3, Feb 2021, pp. 495-502, ISSN: 2278-0181. '
 ---
