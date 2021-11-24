@@ -1,23 +1,17 @@
 ---
-permalink: /
-title: "About Me"
-excerpt: "About me"
+permalink: /contact/
+title: "Contact"
+excerpt: "Contact me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 
-About Me
+VOLUNTEERING EXPERIENCE
 ------
+- Social Responsibility Group, Cadence Pune : As part of social outreach program i have been an active participant in choosing causes to support like science education in rural villages, care home for mentally chanllenged adults, mentoring students from underprevilaged backgrounds, flood relief etc. Responsibilities also include Volunteering in the social outreach activities, planning new activities around causes supported, encouraging employee participation etc.
 
-Hello, I am Tushar Kataria, a PhD candidate at [University of Utah, Utah](https://www.utah.edu/) in [School of Computing](https://www.cs.utah.edu/). I am in [Scientific Computing and Imaging Institute](https://www.sci.utah.edu/) working with [Prof. Shireen Elhabian](https://www.sci.utah.edu/~shireen/). 
+- Volunteering for Leadership Development with Tech4Team in Collaboration with W.I.T.U., Uganda : Part of team of 10 Cadence employees who went to Uganda to work with a local non-profit called Women in Technology Uganda. We helped them build their first maker space, train their teachers on how to use 3D printing, virtual reality, electronics(BBC Microbit) and help in improving their entrepreneurship program.
 
-Research Interests
-------
-Broader research interests are image processing, medical image processing, deep learning and computer vision. Specifically I am interested in Sematic segmentation, instance segmentation and domain adaptation problems for medical imaging datasets. 
+- Ed Support Volunteer, MAD : Taught maths to students enrolled in Diploma programs at university. One of my students scored highest marks in his grade and other passed with distintion.
 
-Background 
-------
-I was born and brought up Delhi, India. I studied at Indira Ideal Sr. Sec. School, Janak Puri. I completed my bachelors from [Ambedkar Institute of Advanced Communication Technologies and Research](https://aiactr.ac.in/) which is affiliated with [Guru Gobind Singh Indraprastha University](https://www.ipu.ac.in/). After my bachelors I enrolled in Master of Technology Program at [IIT Bombay](https://www.iitb.ac.in/), India. I work with [Prof. Ashish Vanmali, VCET(a PhD candidate at that time)](https://vcet.edu.in/departments/information-technology-engineering/ashish-vanmali/) [Prof. V.M. Gadre, EE, IIT](https://www.ee.iitb.ac.in/web/people/faculty/home/vmgadre) while at IIT. After my Graduation, I worked in Cadence Design Systems IP Group(Fromerly Tensilica) as a Lead Design Engineer.
+- Volunteer Teacher,Abhyasika : Taught Maths and English modules (once every week) designed to help underprivileged students with lack of good basics in these subjects.
