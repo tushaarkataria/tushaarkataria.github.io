@@ -5,6 +5,11 @@ excerpt: "Hobbies and Voluteering"
 author_profile: true
 ---
 
+READING
+-------
+I read a decent amount of fiction, fantasy or political books every year. You can use the link below to find some books which you might like.
+[My GoodReads Acount](https://www.goodreads.com/user/show/16894718-tushaar-kataria)
+
 
 VOLUNTEERING EXPERIENCE
 ------
