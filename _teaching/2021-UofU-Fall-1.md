@@ -9,3 +9,9 @@ location: "Salt Lake City, Utah, USA"
 ---
 Course Instructor:- Prof. Ross Whitaker
 
+Responsibilities
+======
+- Helped in Creating Deep learning assignments for the Course 
+- Python and pytorch tutorial
+- Grading and Exams
+
