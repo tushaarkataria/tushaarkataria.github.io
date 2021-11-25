@@ -8,9 +8,6 @@ redirect_from:
 ---
 
 
-About Me
-------
-
 Hello, I am Tushar Kataria, a PhD candidate at [University of Utah, Utah](https://www.utah.edu/) in [School of Computing](https://www.cs.utah.edu/). I am in [Scientific Computing and Imaging Institute](https://www.sci.utah.edu/) working with [Prof. Shireen Elhabian](https://www.sci.utah.edu/~shireen/). 
 
 Research Interests
