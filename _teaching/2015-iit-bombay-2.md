@@ -7,9 +7,9 @@ venue: "Electrical Engineering, IIT Bombay"
 date: 2015-08-01
 location: "Mumbai, India"
 ---
-Autumn 2015(Prof. V.M. Gadre), 
-Autumn 2016(Prof. V.M. Gadre)
-Autumn 2017(Prof. V.M. Gadre)
+Autumn 2015([Prof. V.M. Gadre](https://www.ee.iitb.ac.in/wiki/faculty/vmgadre)), 
+Autumn 2016([Prof. V.M. Gadre](https://www.ee.iitb.ac.in/wiki/faculty/vmgadre))
+Autumn 2017([Prof. V.M. Gadre](https://www.ee.iitb.ac.in/wiki/faculty/vmgadre))
 
 Responsibilities
 ======

@@ -7,7 +7,7 @@ venue: "University of Utah, School of Computing"
 date: 2021-08-20
 location: "Salt Lake City, Utah, USA"
 ---
-Course Instructor:- Prof. Ross Whitaker
+Course Instructor:- [Prof. Ross Whitaker](https://www.cs.utah.edu/~whitaker/)
 
 Responsibilities
 ======

@@ -7,9 +7,9 @@ venue: "Electrical Engineering, IIT Bombay"
 date: 2014-08-01
 location: "Mumbai, India"
 ---
-Spring 2015(Prof. Sarvanan VijayaKumaran), 
-Spring 2016(Prof. Ranbabu Velmurugan)
-Spring 2017(Prof. Ranbabu Velmurugan)
+Spring 2015([Prof. Sarvanan VijayaKumaran](https://www.ee.iitb.ac.in/~sarva/), 
+Spring 2016([Prof. Rajbabu Velmurugan](https://www.ee.iitb.ac.in/web/faculty/homepage/rajbabu))
+Spring 2017([Prof. Rajbabu Velmurugan](https://www.ee.iitb.ac.in/web/faculty/homepage/rajbabu))
 
 Responsibilities
 ======
