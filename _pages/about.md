@@ -16,7 +16,8 @@ Broader research interests are image processing, medical image processing, deep 
 
 Recent News
 ------
--[**May 2023**] *Archive Version of my work [Unsupervised Domain Adaptation for Semantic Segmentation via Feature-space Density Matching](https://arxiv.org/abs/2305.05789) is online.*
+-[**May 2023**] *Archive Version [Unsupervised Domain Adaptation for Semantic Segmentation via Feature-space Density Matching](https://arxiv.org/abs/2305.05789),* 
+                **Tushar Kataria**, Beatrice Knudsen, Shireen Elhabian  
 
 -[**Mar 2023**] *Archive Version of my work [Automating Ground Truth Annotations For Gland Segmentation Through Immunohistochemistry](https://www.researchsquare.com/article/rs-2600534/v1) is online.*
 
