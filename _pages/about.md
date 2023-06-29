@@ -12,14 +12,14 @@ Hello, I am Tushar Kataria, a PhD candidate at [University of Utah, Utah](https:
 
 Research Interests
 ------
-Broader research interests are image processing, medical image processing, deep learning and computer vision. Specifically, I am interested in **Semantic segmentation, instance segmentation and domain adaptation** problems for medical imaging datasets. I also interested in statistical shape modelling and multi-modal machine learning.
+Broader research interests are image processing, medical image processing, deep learning and computer vision. Specifically, I am interested in **Semantic segmentation, instance segmentation and domain adaptation** problems for medical imaging datasets. I am also interested in **Statistical Shape Modelling and MultiModal** machine learning.
 
 Recent News
 ------
--[**May 2023**, *Archive Version*] *Unsupervised Domain Adaptation for Semantic Segmentation via Feature-space Density Matching.* **Tushar Kataria**, Beatrice Knudsen, Shireen Elhabian [link](https://arxiv.org/abs/2305.05789)
+-[**May 2023**, *Archive Version*] *Unsupervised Domain Adaptation for Semantic Segmentation via Feature-space Density Matching.* **Tushar Kataria**, Beatrice Knudsen, Shireen Elhabian. [link](https://arxiv.org/abs/2305.05789)
 
 
--[**Mar 2023**, *Archive Version*] *Automating Ground Truth Annotations For Gland Segmentation Through Immunohistochemistry.* **Tushar Kataria**, Saradha Rajamani, Abdul Bari Ayubi, Mary Bronner, Jolanta Jedrzkiewicz, Beatrice Knudsen, Shireen Elhabian [link](https://www.researchsquare.com/article/rs-2600534/v1)
+-[**Mar 2023**, *Archive Version*] *Automating Ground Truth Annotations For Gland Segmentation Through Immunohistochemistry.* **Tushar Kataria**, Saradha Rajamani, Abdul Bari Ayubi, Mary Bronner, Jolanta Jedrzkiewicz, Beatrice Knudsen, Shireen Elhabian. [link](https://www.researchsquare.com/article/rs-2600534/v1)
 
 
 
