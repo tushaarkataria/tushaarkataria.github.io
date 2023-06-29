@@ -16,11 +16,10 @@ Broader research interests are image processing, medical image processing, deep 
 
 Recent News
 ------
--[**May 2023**, *Archive Version*] *Unsupervised Domain Adaptation for Semantic Segmentation via Feature-space Density Matching*, **Tushar Kataria**, Beatrice Knudsen, Shireen Elhabian [link](https://arxiv.org/abs/2305.05789)
+-[**May 2023**, *Archive Version*] *Unsupervised Domain Adaptation for Semantic Segmentation via Feature-space Density Matching.* **Tushar Kataria**, Beatrice Knudsen, Shireen Elhabian [link](https://arxiv.org/abs/2305.05789)
 
-**Tushar Kataria**, Beatrice Knudsen, Shireen Elhabian  
 
--[**Mar 2023**, *Archive Version*] *Automating Ground Truth Annotations For Gland Segmentation Through Immunohistochemistry*, **Tushar Kataria**, Saradha Rajamani, Abdul Bari Ayubi, Mary Bronner, Jolanta Jedrzkiewicz, Beatrice Knudsen, Shireen Elhabian [link](https://www.researchsquare.com/article/rs-2600534/v1)
+-[**Mar 2023**, *Archive Version*] *Automating Ground Truth Annotations For Gland Segmentation Through Immunohistochemistry.* **Tushar Kataria**, Saradha Rajamani, Abdul Bari Ayubi, Mary Bronner, Jolanta Jedrzkiewicz, Beatrice Knudsen, Shireen Elhabian [link](https://www.researchsquare.com/article/rs-2600534/v1)
 
 
 
