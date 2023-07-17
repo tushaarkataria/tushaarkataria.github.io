@@ -8,7 +8,12 @@ redirect_from:
 ---
 
 
-Hello, I am Tushar Kataria, a PhD candidate at [University of Utah, Utah](https://www.utah.edu/) in [School of Computing](https://www.cs.utah.edu/). I am in [Scientific Computing and Imaging Institute](https://www.sci.utah.edu/) working with [Prof. Shireen Elhabian](https://www.sci.utah.edu/~shireen/) in collaboration with [Prof. Beatrice S. Knudsen](https://healthcare.utah.edu/fad/mddetail.php?physicianID=u6028236#tabAcademic). 
+Hello, I am Tushar Kataria, a PhD candidate at [University of Utah, Utah](https://www.utah.edu/) in [School of Computing](https://www.cs.utah.edu/). I am in [Scientific Computing and Imaging Institute](https://www.sci.utah.edu/) advised by [Prof. Shireen Elhabian](https://www.sci.utah.edu/~shireen/).
+
+Collaborators
+------ 
+
+- [Prof. Beatrice S. Knudsen](https://healthcare.utah.edu/fad/mddetail.php?physicianID=u6028236#tabAcademic). 
 
 Research Interests
 ------
