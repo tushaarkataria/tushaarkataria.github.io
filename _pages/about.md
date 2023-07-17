@@ -16,7 +16,7 @@ Broader research interests are image processing, medical image processing, deep 
 
 Recent News
 ------
--[**July 2023**, *Archive Version*] [*To pretrain or not to pretrain? A case study of domain-specific pretraining for semantic segmentation in histopathology.*](https://arxiv.org/abs/2307.03275)
+-[**July 2023**, *Archive Version*] [***To pretrain or not to pretrain? A case study of domain-specific pretraining for semantic segmentation in histopathology.***](https://arxiv.org/abs/2307.03275)
 
 $${\color{red}{Author \space List}}$$: $$ \color{Green}{Tushar \space Kataria}, Beatrice \space Knudsen, Shireen \space Elhabian. $$
 
