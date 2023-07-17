@@ -18,19 +18,19 @@ Recent News
 ------
 -[**July 2023**, *Archive Version*] [***To pretrain or not to pretrain? A case study of domain-specific pretraining for semantic segmentation in histopathology.***](https://arxiv.org/abs/2307.03275)
 
-$${\color{red}{Author \space List}}$$: $$ \color{Green}{Tushar \space Kataria}, Beatrice \space Knudsen, Shireen \space Elhabian. $$
+$${\color{red}{Author \space List}}$$: $$ \color{Blue}{Tushar \space Kataria}, Beatrice \space Knudsen, Shireen \space Elhabian. $$
 
 -[**July 2023**, *Archive Version*] [*ADASSM: Adversarial Data Augmentation in Statistical Shape Models From Images.*](https://arxiv.org/abs/2307.03273)
 
-Author List: Mokshagna Sai Teja Karanam,**Tushar Kataria**, Shireen Elhabian.
+$${\color{red}{Author \space List}}$$: $$ Mokshagna \space Sai \space Teja \space Karanam, \color{Blue}{Tushar \space Kataria}, Shireen \space Elhabian. $$
 
 -[**May 2023**, *Archive Version*] [*Unsupervised Domain Adaptation for Medical Image Segmentation via Feature-space Density Matching.*](https://arxiv.org/abs/2305.05789)
 
-Author List: **Tushar Kataria**, Beatrice Knudsen, Shireen Elhabian.
+$${\color{red}{Author \space List}}$$: $$ \color{Blue}{Tushar \space Kataria}, Beatrice \space Knudsen, Shireen \space Elhabian. $$
 
 -[**Mar 2023**, *Archive Version*] [*Automating Ground Truth Annotations For Gland Segmentation Through Immunohistochemistry.*](https://www.researchsquare.com/article/rs-2600534/v1)
 
-Author List: **Tushar Kataria**, Saradha Rajamani, Abdul Bari Ayubi, Mary Bronner, Jolanta Jedrzkiewicz, Beatrice Knudsen, Shireen Elhabian. 
+$${\color{red}{Author \space List}}$$: $$ \color{Blue}{Tushar \space Kataria},Saradha \space Rajamani, Abdul \space Bari \space Ayubi, Mary \space Bronner, Jolanta \space Jedrzkiewicz, Beatrice \space Knudsen,  Shireen \space Elhabian. $$
 
 
 
