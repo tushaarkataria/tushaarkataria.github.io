@@ -22,7 +22,8 @@ $${\color{red}{Author \space List}}$$: $$ \color{Blue}{Tushar \space Kataria}, B
 
 -[**July 2023**, *Archive Version*] [***ADASSM: Adversarial Data Augmentation in Statistical Shape Models From Images.***](https://arxiv.org/abs/2307.03273)
 
-$${\color{red}{Author \space List}}$$: $$ Mokshagna \space Sai \space Teja \space Karanam, \color{Blue}{Tushar \space Kataria}, Shireen \space Elhabian. $$
+$${\color{red}{Author \space List}}$$: $$ Mokshagna \space Sai \space Teja \space Karanam, \color{Blue}{Tushar \space Kataria},$$
+ $$Shireen \space Elhabian. $$
 
 -[**May 2023**, *Archive Version*] [***Unsupervised Domain Adaptation for Medical Image Segmentation via Feature-space Density Matching.***](https://arxiv.org/abs/2305.05789)
 
