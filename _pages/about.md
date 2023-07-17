@@ -30,7 +30,8 @@ $${\color{red}{Author \space List}}$$: $$ \color{Blue}{Tushar \space Kataria}, B
 
 -[**Mar 2023**, *Archive Version*] [***Automating Ground Truth Annotations For Gland Segmentation Through Immunohistochemistry.***](https://www.researchsquare.com/article/rs-2600534/v1)
 
-$${\color{red}{Author \space List}}$$: $$ \color{Blue}{Tushar \space Kataria},Saradha \space Rajamani, Abdul \space Bari \space Ayubi, Mary \space Bronner, Jolanta \space Jedrzkiewicz, Beatrice \space Knudsen,  Shireen \space Elhabian. $$
+$${\color{red}{Author \space List}}$$: $$ \color{Blue}{Tushar \space Kataria},Saradha \space Rajamani, Abdul \space Bari \space Ayubi,$$
+$$ Mary \space Bronner, Jolanta \space Jedrzkiewicz, Beatrice \space Knudsen,  Shireen \space Elhabian. $$
 
 
 
