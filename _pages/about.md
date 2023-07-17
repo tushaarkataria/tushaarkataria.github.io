@@ -18,7 +18,7 @@ Recent News
 ------
 -[**July 2023**, *Archive Version*] [*To pretrain or not to pretrain? A case study of domain-specific pretraining for semantic segmentation in histopathology.*](https://arxiv.org/abs/2307.03275)
 
-$${\color{red}{Author \space List}}$$: $$ \textbf{\color{Green}{Tushar \space Kataria}}, Beatrice \space Knudsen, Shireen \space Elhabian. $$
+$${\color{red}{Author \space List}}$$: $$ \color{Green}{Tushar \space Kataria}, Beatrice \space Knudsen, Shireen \space Elhabian. $$
 
 -[**July 2023**, *Archive Version*] [*ADASSM: Adversarial Data Augmentation in Statistical Shape Models From Images.*](https://arxiv.org/abs/2307.03273)
 
