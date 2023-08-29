@@ -19,6 +19,10 @@ Collaborators: [Prof. Beatrice S. Knudsen](https://healthcare.utah.edu/fad/mddet
 
 Recent News
 ------
+-[** August 2023**, *Archive Version*] [*** Structural Cycle GAN for Virtual Immunohistochemistry Staining of Gland Markers in the Colon.***](https://arxiv.org/abs/2308.13182)
+
+-[**July 2023**, *Archive Version*] [***InfoSync: Information Synchronization across Multilingual Semi-structured Tables***](https://arxiv.org/abs/2307.03313).
+
 -[**July 2023**, *Archive Version*] [***To pretrain or not to pretrain? A case study of domain-specific pretraining for semantic segmentation in histopathology.***](https://arxiv.org/abs/2307.03275)
 
 Author List: **Tushar Kataria**, Beatrice Knudsen, Shireen  Elhabian.
