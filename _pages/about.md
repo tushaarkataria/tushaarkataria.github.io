@@ -29,7 +29,7 @@ Author List: **Tushar Kataria**, Beatrice Knudsen, Shireen  Elhabian.
 
 -[**July 2023**, *Archive Version*] [***ADASSM: Adversarial Data Augmentation in Statistical Shape Models From Images.***](https://arxiv.org/abs/2307.03273), **Accepted in ShapeMI 2023, MICCAI Workshops 2023**.
 
-Author  List: Mokshagna Sai Teja Karanam, **Tushar Kataria**, Shireen Elhabian.
+Author  List: Mokshagna Sai Teja Karanam, **Tushar Kataria**, Krithika Iyer, Shireen Elhabian.
 
 -[**July 2023**, *Archive Version*] [***InfoSync: Information Synchronization across Multilingual Semi-structured Tables***](https://arxiv.org/abs/2307.03313), **Accepted in ACL 2023**.
 
