@@ -19,7 +19,7 @@ Collaborators: [Prof. Beatrice S. Knudsen](https://healthcare.utah.edu/fad/mddet
 
 Recent News
 ------
--[** August 2023**, *Archive Version*] [*** Structural Cycle GAN for Virtual Immunohistochemistry Staining of Gland Markers in the Colon.***](https://arxiv.org/abs/2308.13182), Accepted in MLMI-2023, MICCAI Workshops 2023.
+-[**August 2023**, *Archive Version*] [***Structural Cycle GAN for Virtual Immunohistochemistry Staining of Gland Markers in the Colon.***](https://arxiv.org/abs/2308.13182), Accepted in MLMI-2023, MICCAI Workshops 2023.
 
 Author List: Shikha Dubey,**Tushar Kataria**, Beatrice Knudsen, Shireen  Elhabian.
 
