@@ -19,19 +19,19 @@ Collaborators: [Prof. Beatrice S. Knudsen](https://healthcare.utah.edu/fad/mddet
 
 Recent News
 ------
--[**August 2023**, *Archive Version*] [***Structural Cycle GAN for Virtual Immunohistochemistry Staining of Gland Markers in the Colon.***](https://arxiv.org/abs/2308.13182), Accepted in MLMI-2023, MICCAI Workshops 2023.
+-[**August 2023**, *Archive Version*] [***Structural Cycle GAN for Virtual Immunohistochemistry Staining of Gland Markers in the Colon.***](https://arxiv.org/abs/2308.13182), **Accepted in MLMI-2023, MICCAI Workshops 2023**.
 
 Author List: Shikha Dubey,**Tushar Kataria**, Beatrice Knudsen, Shireen  Elhabian.
 
--[**July 2023**, *Archive Version*] [***To pretrain or not to pretrain? A case study of domain-specific pretraining for semantic segmentation in histopathology.***](https://arxiv.org/abs/2307.03275), Accepted in MILLanD 2023, MICCAI Workshops 2023.
+-[**July 2023**, *Archive Version*] [***To pretrain or not to pretrain? A case study of domain-specific pretraining for semantic segmentation in histopathology.***](https://arxiv.org/abs/2307.03275), **Accepted in MILLanD 2023, MICCAI Workshops 2023**.
 
 Author List: **Tushar Kataria**, Beatrice Knudsen, Shireen  Elhabian.
 
--[**July 2023**, *Archive Version*] [***ADASSM: Adversarial Data Augmentation in Statistical Shape Models From Images.***](https://arxiv.org/abs/2307.03273), Accepted in ShapeMI 2023, MICCAI Workshops 2023.
+-[**July 2023**, *Archive Version*] [***ADASSM: Adversarial Data Augmentation in Statistical Shape Models From Images.***](https://arxiv.org/abs/2307.03273), **Accepted in ShapeMI 2023, MICCAI Workshops 2023**.
 
 Author  List: Mokshagna Sai Teja Karanam, **Tushar Kataria**, Shireen Elhabian.
 
--[**July 2023**, *Archive Version*] [***InfoSync: Information Synchronization across Multilingual Semi-structured Tables***](https://arxiv.org/abs/2307.03313), Accepted in ACL 2023.
+-[**July 2023**, *Archive Version*] [***InfoSync: Information Synchronization across Multilingual Semi-structured Tables***](https://arxiv.org/abs/2307.03313), **Accepted in ACL 2023**.
 
 Author List: Siddharth Khincha, Chelsi Jain, Vivek Gupta, **Tushar Kataria**, Shuo Zhang
 
