@@ -19,6 +19,10 @@ Collaborators: [Prof. Beatrice S. Knudsen](https://healthcare.utah.edu/fad/mddet
 
 Recent News
 ------
+-[**Sep 2023**, *Archive Version*] [***Automating Ground Truth Annotations For Gland Segmentation Through Immunohistochemistry.***](https://www.researchsquare.com/article/rs-2600534/v1), **Accepted in [Modern Pathology](https://www.elsevier.com/health/medicine/journals/special-journal-subscriptions/modern-pathology), under production **
+
+Author List: **Tushar Kataria**, Saradha Rajamani, Abdul Bari Ayubi, Mary Bronner, Jolanta Jedrzkiewicz, Beatrice Knudsen,  Shireen Elhabian. 
+
 -[**August 2023**, *Archive Version*] [***Structural Cycle GAN for Virtual Immunohistochemistry Staining of Gland Markers in the Colon.***](https://arxiv.org/abs/2308.13182), **Accepted in [MLMI-2023](https://sites.google.com/view/mlmi2023), MICCAI Workshops 2023**.
 
 Author List: Shikha Dubey,**Tushar Kataria**, Beatrice Knudsen, Shireen  Elhabian.
