@@ -19,7 +19,7 @@ Collaborators: [Prof. Beatrice S. Knudsen](https://healthcare.utah.edu/fad/mddet
 
 Recent News
 ------
--[**Sep 2023**, *Archive Version*] [***Automating Ground Truth Annotations For Gland Segmentation Through Immunohistochemistry.***](https://www.researchsquare.com/article/rs-2600534/v1), **Accepted in [Modern Pathology](https://www.elsevier.com/health/medicine/journals/special-journal-subscriptions/modern-pathology), under production **
+-[**Sep 2023**, *Archive Version*] [***Automating Ground Truth Annotations For Gland Segmentation Through Immunohistochemistry.***](https://www.researchsquare.com/article/rs-2600534/v1), **Accepted in [Modern Pathology](https://www.elsevier.com/health/medicine/journals/special-journal-subscriptions/modern-pathology), under production.**
 
 Author List: **Tushar Kataria**, Saradha Rajamani, Abdul Bari Ayubi, Mary Bronner, Jolanta Jedrzkiewicz, Beatrice Knudsen,  Shireen Elhabian. 
 
@@ -43,9 +43,6 @@ Author List: Siddharth Khincha, Chelsi Jain, Vivek Gupta, **Tushar Kataria**, Sh
 
 Author List: **Tushar Kataria**, Beatrice Knudsen, Shireen  Elhabian.
 
--[**Mar 2023**, *Archive Version*] [***Automating Ground Truth Annotations For Gland Segmentation Through Immunohistochemistry.***](https://www.researchsquare.com/article/rs-2600534/v1)
-
-Author List: **Tushar Kataria**, Saradha Rajamani, Abdul Bari Ayubi, Mary Bronner, Jolanta Jedrzkiewicz, Beatrice Knudsen,  Shireen Elhabian. 
 
 
 
