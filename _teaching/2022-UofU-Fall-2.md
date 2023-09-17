@@ -1,9 +1,9 @@
 ---
-title: "TA/TM CS4640 Fall 2021, Digital Image Processing"
+title: "TA/TM CS4640 Fall 2022, Digital Image Processing"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2022-UofU-Fall-2
-venue: "University of Utah, School of Computing"
+venue: "University of Utah, Kalhert School of Computing"
 date: 2022-08-20
 location: "Salt Lake City, Utah, USA"
 ---
