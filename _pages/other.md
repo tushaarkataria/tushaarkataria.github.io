@@ -24,7 +24,7 @@ VOLUNTEERING EXPERIENCE
 
 - **Volunteering for Leadership Development with Tech4Team in Collaboration with W.I.T.U., Uganda**: Part of team of 10 Cadence employees who went to Uganda to work with a local non-profit called Women in Technology, Uganda. We helped in building their first maker space, train their teachers on how to use 3D printing, virtual reality, electronics(BBC Microbit) and help in improving their entrepreneurship program. 
 
-- ** Ed Support Volunteer, MAD**: Taught Maths and English to orphanage students enrolled in diploma programs at university.
+- **Ed Support Volunteer, MAD**: Taught Maths and English to orphanage students enrolled in diploma programs at university.
 
 - **Volunteer Teacher, Abhyasika** : Weekly English and Math tutoring for students from economically disadvantaged families. 
 
