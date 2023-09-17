@@ -14,5 +14,5 @@ Responsibilities
 - Helped in Creating Assignments and Quiz questions
 - Python and pytorch Tutorial. Office Hours.
 - Grading of Assignments and Quizes
-- Delivering Lecture on PCA and Application of Deep learning in Image processing.
+- Delivered Lecture on PCA and Application of Deep learning in Image processing.
 
