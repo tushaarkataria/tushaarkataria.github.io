@@ -19,15 +19,19 @@ Collaborators: [Prof. Beatrice S. Knudsen](https://healthcare.utah.edu/fad/mddet
 
 Recent News
 ------
--[**August 2023**, *Archive Version*] [***Structural Cycle GAN for Virtual Immunohistochemistry Staining of Gland Markers in the Colon.***](https://arxiv.org/abs/2308.13182), **Accepted in MLMI-2023, MICCAI Workshops 2023**.
+-[**Sep 2023**, *Archive Version*] [***Automating Ground Truth Annotations For Gland Segmentation Through Immunohistochemistry.***](https://www.researchsquare.com/article/rs-2600534/v1), **Accepted in [Modern Pathology](https://www.elsevier.com/health/medicine/journals/special-journal-subscriptions/modern-pathology), under production.**
+
+Author List: **Tushar Kataria**, Saradha Rajamani, Abdul Bari Ayubi, Mary Bronner, Jolanta Jedrzkiewicz, Beatrice Knudsen,  Shireen Elhabian. 
+
+-[**August 2023**, *Archive Version*] [***Structural Cycle GAN for Virtual Immunohistochemistry Staining of Gland Markers in the Colon.***](https://arxiv.org/abs/2308.13182), **Accepted in [MLMI-2023](https://sites.google.com/view/mlmi2023), MICCAI Workshops 2023**.
 
 Author List: Shikha Dubey,**Tushar Kataria**, Beatrice Knudsen, Shireen  Elhabian.
 
--[**July 2023**, *Archive Version*] [***To pretrain or not to pretrain? A case study of domain-specific pretraining for semantic segmentation in histopathology.***](https://arxiv.org/abs/2307.03275), **Accepted in MILLanD 2023, MICCAI Workshops 2023**.
+-[**July 2023**, *Archive Version*] [***To pretrain or not to pretrain? A case study of domain-specific pretraining for semantic segmentation in histopathology.***](https://arxiv.org/abs/2307.03275), **Accepted in [MILLanD 2023](https://miccaimilland.wixsite.com/milland2023), MICCAI Workshops 2023**.
 
 Author List: **Tushar Kataria**, Beatrice Knudsen, Shireen  Elhabian.
 
--[**July 2023**, *Archive Version*] [***ADASSM: Adversarial Data Augmentation in Statistical Shape Models From Images.***](https://arxiv.org/abs/2307.03273), **Accepted in ShapeMI 2023, MICCAI Workshops 2023**.
+-[**July 2023**, *Archive Version*] [***ADASSM: Adversarial Data Augmentation in Statistical Shape Models From Images.***](https://arxiv.org/abs/2307.03273), **Accepted in [ShapeMI 2023](https://shapemi.github.io/), MICCAI Workshops 2023**.
 
 Author  List: Mokshagna Sai Teja Karanam, **Tushar Kataria**, Krithika Iyer, Shireen Elhabian.
 
@@ -39,9 +43,6 @@ Author List: Siddharth Khincha, Chelsi Jain, Vivek Gupta, **Tushar Kataria**, Sh
 
 Author List: **Tushar Kataria**, Beatrice Knudsen, Shireen  Elhabian.
 
--[**Mar 2023**, *Archive Version*] [***Automating Ground Truth Annotations For Gland Segmentation Through Immunohistochemistry.***](https://www.researchsquare.com/article/rs-2600534/v1)
-
-Author List: **Tushar Kataria**, Saradha Rajamani, Abdul Bari Ayubi, Mary Bronner, Jolanta Jedrzkiewicz, Beatrice Knudsen,  Shireen Elhabian. 
 
 
 
