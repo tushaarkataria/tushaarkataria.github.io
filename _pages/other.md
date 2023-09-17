@@ -17,12 +17,15 @@ I read a decent amount of fiction, fantasy or political books every year. You ca
 
 VOLUNTEERING EXPERIENCE
 ------
-- Social Responsibility Group, Cadence Pune : As part of social outreach program i have been an active participant in choosing causes to support like science education in rural villages, care home for mentally chanllenged adults, mentoring students from underprevilaged backgrounds, flood relief etc. Responsibilities also include Volunteering in the social outreach activities, planning new activities around causes supported, encouraging employee participation etc.
 
-- Volunteering for Leadership Development with Tech4Team in Collaboration with W.I.T.U., Uganda : Part of team of 10 Cadence employees who went to Uganda to work with a local non-profit called Women in Technology Uganda. We helped them build their first maker space, train their teachers on how to use 3D printing, virtual reality, electronics(BBC Microbit) and help in improving their entrepreneurship program.
+- **ACT Volunteer Tutor, Bennion Center, University of Utah** : Helping students with Maths, Science, and Reading at one of the Public Libraries. 
 
-- Ed Support Volunteer, MAD : Taught maths to students enrolled in Diploma programs at university. One of my students scored highest marks in his grade and other passed with distintion.
+- **Social Responsibility Group, Cadence Designs System, Pune** : As a part of the social outreach program, I actively participated in selecting causes to assist, such as flood relief, care facilities for mentally challenged adults, care homes for adults with intellectual disabilities, and science education in rural areas. Volunteering for social outreach projects, creating new events centered around causes, promoting employee involvement, and other duties are also responsibilities.
 
-- Volunteer Teacher,Abhyasika : Taught Maths and English modules (once every week) designed to help underprivileged students with lack of good basics in these subjects.
+- **Volunteering for Leadership Development with Tech4Team in Collaboration with W.I.T.U., Uganda**: Part of team of 10 Cadence employees who went to Uganda to work with a local non-profit called Women in Technology, Uganda. We helped in building their first maker space, train their teachers on how to use 3D printing, virtual reality, electronics(BBC Microbit) and help in improving their entrepreneurship program. 
+
+- ** Ed Support Volunteer, MAD**: Taught Maths and English to orphanage students enrolled in diploma programs at university.
+
+- **Volunteer Teacher, Abhyasika** : Weekly English and Math tutoring for students from economically disadvantaged families. 
 
 
