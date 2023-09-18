@@ -84,11 +84,11 @@ author:
   avatar           : "profile.png"
   bio              : "PhD in Computing, Image Analysis"
   location         : "Salt Lake City, Utah, USA"
-  employer         :
+  employer         : "University of Utah"
   pubmed           : 
   googlescholar    : "https://scholar.google.co.in/citations?hl=en&user=Qrs30aYAAAAJ" 
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Tushar-Kataria-3"
   uri              :
   bitbucket        :
   codepen          :
