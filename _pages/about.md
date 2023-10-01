@@ -17,7 +17,7 @@ Broader research interests are image processing, medical image processing, deep 
 
 Advisor: [Prof. Shireen Elhabian](https://www.sci.utah.edu/~shireen/)
 
-Collaborators: [Prof. Beatrice S. Knudsen](https://healthcare.utah.edu/fad/mddetail.php?physicianID=u6028236#tabAcademic), [Shikha Dubey](https://sites.google.com/view/shikha-dubey/),[Mokshagna Sai Teja Karanam](https://www.linkedin.com/in/mokshagna-sai-teja-karanam-372022169/),[Krithika Iyer](https://www.linkedin.com/in/iyerkrithika21/), [Vivek Gupta](https://vgupta123.github.io/). 
+Collaborators: [Prof. Beatrice S. Knudsen](https://healthcare.utah.edu/fad/mddetail.php?physicianID=u6028236#tabAcademic), [Shikha Dubey](https://sites.google.com/view/shikha-dubey/), [Mokshagna Sai Teja Karanam](https://www.linkedin.com/in/mokshagna-sai-teja-karanam-372022169/), [Krithika Iyer](https://www.linkedin.com/in/iyerkrithika21/), [Vivek Gupta](https://vgupta123.github.io/). 
 
 Recent News
 ------
