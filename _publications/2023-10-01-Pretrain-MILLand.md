@@ -7,5 +7,6 @@ excerpt: 'Annotating medical imaging datasets is costly, so fine-tuning (or tran
 date: 2023-10-08
 venue: 'Medical Image Learning with Limited and Noisy Data'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-44917-8_24'
+ArchiveLink: https://arxiv.org/abs/2307.03275
 citation: 'Kataria, T., Knudsen, B., Elhabian, S. (2023). To Pretrain or Not to Pretrain? A Case Study of Domain-Specific Pretraining for Semantic Segmentation in Histopathology. In: Xue, Z., et al. Medical Image Learning with Limited and Noisy Data. MILLanD 2023. Lecture Notes in Computer Science, vol 14307. Springer, Cham. https://doi.org/10.1007/978-3-031-44917-8_24'
 ---

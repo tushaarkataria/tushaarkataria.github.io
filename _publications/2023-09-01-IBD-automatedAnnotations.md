@@ -7,5 +7,6 @@ excerpt: 'The microscopic evaluation of glands in the colon is of utmost importa
 date: 2023-09-01
 venue: 'Modern Pathology'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0893395223002363'
+ArchiveLink: https://www.researchsquare.com/article/rs-2600534/latest.pdf 
 citation: 'Kataria, Tushar, Saradha Rajamani, Abdul Bari Ayubi, Mary Bronner, Jolanta Jedrzkiewicz, Beatrice Knudsen, and Shireen Y. Elhabian. "Automating Ground Truth Annotations for Gland Segmentation Through Immunohistochemistry." Modern Pathology (2023): 100331.'
 ---
