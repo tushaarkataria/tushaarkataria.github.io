@@ -21,7 +21,7 @@ Collaborators: [Prof. Beatrice S. Knudsen](https://healthcare.utah.edu/fad/mddet
 
 Recent News
 ------
--[**Oct 2023**, *MILLanD 2023*] [***To pretrain or not to pretrain? A case study of domain-specific pretraining for semantic segmentation in histopathology.***](https://link.springer.com/chapter/10.1007/978-3-031-44917-8_24), **Accepted in [MILLanD 2023](https://miccaimilland.wixsite.com/milland2023), MICCAI Workshops 2023**.
+-[**Oct 2023**, *MILLanD, MICCAI 2023*] [***To pretrain or not to pretrain? A case study of domain-specific pretraining for semantic segmentation in histopathology.***](https://link.springer.com/chapter/10.1007/978-3-031-44917-8_24).
 
 Author List: **Tushar Kataria**, Beatrice Knudsen, Shireen  Elhabian.
 
