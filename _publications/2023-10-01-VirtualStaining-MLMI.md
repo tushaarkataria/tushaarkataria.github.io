@@ -1,0 +1,12 @@
+---
+title: "Structural Cycle GAN for Virtual Immunohistochemistry Staining of Gland Markers in the Colon"
+collection: publications
+permalink: /publication/2023-10-01-VirtualStaining-MLMI
+excerpt: 'With the advent of digital scanners and deep learning, diagnostic operations may move from a microscope to a desktop. Hematoxylin and Eosin (H &E) staining is one of the most frequently used stains for disease analysis, diagnosis, and grading, but pathologists do need different immunohistochemical (IHC) stains to analyze specific structures or cells. Obtaining all of these stains (H &E and different IHCs) on a single specimen is a tedious and time-consuming task. Consequently, virtual staining has emerged as an essential research direction. Here, we propose a novel generative model, Structural Cycle-GAN (SC-GAN), for synthesizing IHC stains from H &E images, and vice versa. Our method expressly incorporates structural information in the form of edges (in addition to color data) and employs attention modules exclusively in the decoder of the proposed generator model. This integration enhances feature localization and preserves contextual information during the generation process. In addition, a structural loss is incorporated to ensure accurate structure alignment between the generated and input markers. To demonstrate the efficacy of the proposed model, experiments are conducted with two IHC markers emphasizing distinct structures of glands in the colon: the nucleus of epithelial cells (CDX2) and the cytoplasm (CK818). Quantitative metrics such as FID and SSIM are frequently used for the analysis of generative models, but they do not correlate explicitly with higher-quality virtual staining results. Therefore, we propose two new quantitative metrics that correlate directly with the virtual staining specificity of IHC markers.'
+ 
+date: 2023-10-08
+venue: 'Machine Learning in Medical Imaging'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-45676-3_45'
+ArchiveLink: https://arxiv.org/abs/2307.03275
+citation: 'Dubey, S., Kataria, T., Knudsen, B., Elhabian, S.Y. (2024). Structural Cycle GAN for Virtual Immunohistochemistry Staining of Gland Markers in the Colon. In: Cao, X., Xu, X., Rekik, I., Cui, Z., Ouyang, X. (eds) Machine Learning in Medical Imaging. MLMI 2023. Lecture Notes in Computer Science, vol 14349. Springer, Cham. https://doi.org/10.1007/978-3-031-45676-3_45'
+---
