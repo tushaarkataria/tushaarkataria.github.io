@@ -25,7 +25,7 @@ Recent News
 
 Author List: **Tushar Kataria**, Beatrice Knudsen, Shireen  Elhabian.
 
--[**Oct 2023**,**MLMI, MICCAI 2023**] [***Structural Cycle GAN for Virtual Immunohistochemistry Staining of Gland Markers in the Colon.***](https://link.springer.com/chapter/10.1007/978-3-031-45676-3_45).
+-[**Oct 2023**, **MLMI, MICCAI 2023**] [***Structural Cycle GAN for Virtual Immunohistochemistry Staining of Gland Markers in the Colon.***](https://link.springer.com/chapter/10.1007/978-3-031-45676-3_45).
 
 Author List: Shikha Dubey,**Tushar Kataria**, Beatrice Knudsen, Shireen  Elhabian.
 

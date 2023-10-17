@@ -7,6 +7,6 @@ excerpt: 'With the advent of digital scanners and deep learning, diagnostic oper
 date: 2023-10-08
 venue: 'Machine Learning in Medical Imaging'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-45676-3_45'
-ArchiveLink: https://arxiv.org/abs/2307.03275
+archive: https://arxiv.org/abs/2307.03275
 citation: 'Dubey, S., Kataria, T., Knudsen, B., Elhabian, S.Y. (2024). Structural Cycle GAN for Virtual Immunohistochemistry Staining of Gland Markers in the Colon. In: Cao, X., Xu, X., Rekik, I., Cui, Z., Ouyang, X. (eds) Machine Learning in Medical Imaging. MLMI 2023. Lecture Notes in Computer Science, vol 14349. Springer, Cham. https://doi.org/10.1007/978-3-031-45676-3_45'
 ---
