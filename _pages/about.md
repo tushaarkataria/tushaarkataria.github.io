@@ -37,7 +37,7 @@ Author List: Shikha Dubey,**Tushar Kataria**, Beatrice Knudsen, Shireen  Elhabia
 
 Author  List: Mokshagna Sai Teja Karanam, **Tushar Kataria**, Krithika Iyer, Shireen Elhabian.
 
--[**July 2023**, *Archive Version*] [***InfoSync: Information Synchronization across Multilingual Semi-structured Tables***](https://arxiv.org/abs/2307.03313), **Accepted in ACL 2023**.
+-[**July 2023**, *ACL 2023*] [***InfoSync: Information Synchronization across Multilingual Semi-structured Tables***](https://aclanthology.org/2023.findings-acl.159/).
 
 Author List: Siddharth Khincha, Chelsi Jain, Vivek Gupta, **Tushar Kataria**, Shuo Zhang
 
