@@ -21,11 +21,11 @@ Collaborators: [Prof. Beatrice S. Knudsen](https://healthcare.utah.edu/fad/mddet
 
 Recent News
 ------
--[**Oct 2023**, *MILLanD, MICCAI 2023*] [***To pretrain or not to pretrain? A case study of domain-specific pretraining for semantic segmentation in histopathology.***](https://link.springer.com/chapter/10.1007/978-3-031-44917-8_24).
+-[**Oct 2023**, **MILLanD, MICCAI 2023**] [***To pretrain or not to pretrain? A case study of domain-specific pretraining for semantic segmentation in histopathology.***](https://link.springer.com/chapter/10.1007/978-3-031-44917-8_24).
 
 Author List: **Tushar Kataria**, Beatrice Knudsen, Shireen  Elhabian.
 
--[**Sep 2023**, *Modern Pathology*] [***Automating Ground Truth Annotations For Gland Segmentation Through Immunohistochemistry.***](https://www.sciencedirect.com/science/article/pii/S0893395223002363?dgcid=coauthor).
+-[**Sep 2023**, **Modern Pathology**] [***Automating Ground Truth Annotations For Gland Segmentation Through Immunohistochemistry.***](https://www.sciencedirect.com/science/article/pii/S0893395223002363?dgcid=coauthor).
 
 Author List: **Tushar Kataria**, Saradha Rajamani, Abdul Bari Ayubi, Mary Bronner, Jolanta Jedrzkiewicz, Beatrice Knudsen,  Shireen Elhabian. 
 
@@ -37,7 +37,7 @@ Author List: Shikha Dubey,**Tushar Kataria**, Beatrice Knudsen, Shireen  Elhabia
 
 Author  List: Mokshagna Sai Teja Karanam, **Tushar Kataria**, Krithika Iyer, Shireen Elhabian.
 
--[**July 2023**, *ACL 2023*] [***InfoSync: Information Synchronization across Multilingual Semi-structured Tables***](https://aclanthology.org/2023.findings-acl.159/).
+-[**July 2023**, **ACL 2023**] [***InfoSync: Information Synchronization across Multilingual Semi-structured Tables***](https://aclanthology.org/2023.findings-acl.159/).
 
 Author List: Siddharth Khincha, Chelsi Jain, Vivek Gupta, **Tushar Kataria**, Shuo Zhang
 
