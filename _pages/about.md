@@ -25,13 +25,13 @@ Recent News
 
 Author List: **Tushar Kataria**, Beatrice Knudsen, Shireen  Elhabian.
 
+-[**Oct 2023**,**MLMI, MICCAI 2023**] [***Structural Cycle GAN for Virtual Immunohistochemistry Staining of Gland Markers in the Colon.***](https://link.springer.com/chapter/10.1007/978-3-031-45676-3_45).
+
+Author List: Shikha Dubey,**Tushar Kataria**, Beatrice Knudsen, Shireen  Elhabian.
+
 -[**Sep 2023**, **Modern Pathology**] [***Automating Ground Truth Annotations For Gland Segmentation Through Immunohistochemistry.***](https://www.sciencedirect.com/science/article/pii/S0893395223002363?dgcid=coauthor).
 
 Author List: **Tushar Kataria**, Saradha Rajamani, Abdul Bari Ayubi, Mary Bronner, Jolanta Jedrzkiewicz, Beatrice Knudsen,  Shireen Elhabian. 
-
--[**August 2023**, *Archive Version*] [***Structural Cycle GAN for Virtual Immunohistochemistry Staining of Gland Markers in the Colon.***](https://arxiv.org/abs/2308.13182), **Accepted in [MLMI-2023](https://sites.google.com/view/mlmi2023), MICCAI Workshops 2023**.
-
-Author List: Shikha Dubey,**Tushar Kataria**, Beatrice Knudsen, Shireen  Elhabian.
 
 -[**July 2023**, *Archive Version*] [***ADASSM: Adversarial Data Augmentation in Statistical Shape Models From Images.***](https://arxiv.org/abs/2307.03273), **Accepted in [ShapeMI 2023](https://shapemi.github.io/), MICCAI Workshops 2023**.
 
