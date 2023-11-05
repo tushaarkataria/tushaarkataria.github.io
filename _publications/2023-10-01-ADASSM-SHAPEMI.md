@@ -1,0 +1,12 @@
+---
+title: "ADASSM: Adversarial Data Augmentation in Statistical Shape Models from Images"
+collection: publications
+permalink: /publication/2023-10-01-ADASSM-SHAPEMI
+excerpt: 'Statistical shape models (SSM) have been well-established as an excellent tool for identifying variations in the morphology of anatomy across the underlying population. Shape models use consistent shape representation across all the samples in a given cohort, which helps to compare shapes and identify the variations that can detect pathologies and help in formulating treatment plans. In medical imaging, computing these shape representations from CT/MRI scans requires time-intensive preprocessing operations, including but not limited to anatomy segmentation annotations, registration, and texture denoising. Deep learning models have demonstrated exceptional capabilities in learning shape representations directly from volumetric images, giving rise to highly effective and efficient Image-to-SSM networks. Nevertheless, these models are data-hungry and due to the limited availability of medical data, deep learning models tend to overfit. Offline data augmentation techniques, that use kernel density estimation based (KDE) methods for generating shape-augmented samples, have successfully aided Image-to-SSM networks in achieving comparable accuracy to traditional SSM methods. However, these augmentation methods focus on shape augmentation, whereas deep learning models exhibit image-based texture bias resulting in sub-optimal models. This paper introduces a novel strategy for on-the-fly data augmentation for the Image-to-SSM framework by leveraging data-dependent noise generation or texture augmentation. The proposed framework is trained as an adversary to the Image-to-SSM network, augmenting diverse and challenging noisy samples. Our approach achieves improved accuracy by encouraging the model to focus on the underlying geometry rather than relying solely on pixel values.
+ 
+date: 2023-10-08
+venue: 'Shape in Medical Imaging'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-46914-5_8'
+archive: https://arxiv.org/abs/2307.03273
+citation: 'Karanam, M.S.T., Kataria, T., Iyer, K., Elhabian, S.Y. (2023). ADASSM: Adversarial Data Augmentation in Statistical Shape Models from Images. In: Wachinger, C., Paniagua, B., Elhabian, S., Li, J., Egger, J. (eds) Shape in Medical Imaging. ShapeMI 2023. Lecture Notes in Computer Science, vol 14350. Springer, Cham. https://doi.org/10.1007/978-3-031-46914-5_8'
+---
