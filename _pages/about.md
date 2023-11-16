@@ -21,6 +21,10 @@ Collaborators: [Prof. Beatrice S. Knudsen](https://healthcare.utah.edu/fad/mddet
 
 Recent News
 ------
+-[**Nov 2023**, **EduHPC-23: Workshop on Education for High Performance Computing**] [***An NSF REU Site Based on Trust and Reproducibility of Intelligent Computation: Experience Report***](https://dl.acm.org/doi/abs/10.1145/3624062.3624100).
+
+Author  List: Mary Hall, Ganesh Gopalakrishnan, Harvey Dam, Artem Yadrov, Amirmohammed Tavakkoli, Johanna Cohoon, Sameeran Joshi, Aditya Bhaskara, Eric Eide, Jeff Phillips, Mu Zhang, Shireen Elhabian, **Tushar Kataria**, and Mokshagna Sai Teja Karanam 
+
 -[**Oct 2023**, **ShapeMI, MICCAI 2023**] [***ADASSM: Adversarial Data Augmentation in Statistical Shape Models From Images.***](https://link.springer.com/chapter/10.1007/978-3-031-46914-5_8).
 
 Author  List: Mokshagna Sai Teja Karanam, **Tushar Kataria**, Krithika Iyer, Shireen Elhabian.
