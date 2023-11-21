@@ -52,6 +52,9 @@ Archived Papers
 
 Author List: **Tushar Kataria**, Beatrice Knudsen, Shireen  Elhabian.
 
+-[**Nov 2023**, *Archive Version*] [***Multi-Set Inoculation: Assessing Model Robustness Across Multiple Challenge Sets***](https://arxiv.org/abs/2311.08662)
+
+Author List: Vatsal Gupta, Pranshu Pandya,**Tushar Kataria**, Vivek Gupta, Dan Roth
 
 
 
