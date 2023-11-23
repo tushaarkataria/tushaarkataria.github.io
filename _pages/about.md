@@ -11,7 +11,7 @@ redirect_from:
 Hello, I am Tushar Kataria, a PhD candidate at [University of Utah, Utah](https://www.utah.edu/) in [School of Computing](https://www.cs.utah.edu/). I am in [Scientific Computing and Imaging Institute](https://www.sci.utah.edu/) advised by [Prof. Shireen Elhabian](https://www.sci.utah.edu/~shireen/).
 
 
-<span style="color:red;">Research Interests</span>
+<span style="color:green;">Research Interests</span>
 ------
 Broader research interests are image processing, medical image processing, deep learning and computer vision. Specifically, I am interested in **Semantic Segmentation, Instance Segmentation and Domain Adaptation** problems for medical imaging datasets. I am also interested in **Statistical Shape Modelling and MultiModal** machine learning.
 
@@ -19,7 +19,7 @@ Broader research interests are image processing, medical image processing, deep 
 
 *Collaborators*: [Prof. Beatrice S. Knudsen](https://healthcare.utah.edu/fad/mddetail.php?physicianID=u6028236#tabAcademic), [Shikha Dubey](https://sites.google.com/view/shikha-dubey/), [Mokshagna Sai Teja Karanam](https://www.linkedin.com/in/mokshagna-sai-teja-karanam-372022169/), [Krithika Iyer](https://www.linkedin.com/in/iyerkrithika21/), [Vivek Gupta](https://vgupta123.github.io/). 
 
-Recent News
+<span style="color:blue;">Recent News</span>
 ------
 -[**Nov 2023**, **EduHPC-23: Workshop on Education for High Performance Computing**] [***An NSF REU Site Based on Trust and Reproducibility of Intelligent Computation: Experience Report***](https://dl.acm.org/doi/abs/10.1145/3624062.3624100).
 
@@ -45,7 +45,7 @@ Author List: **Tushar Kataria**, Saradha Rajamani, Abdul Bari Ayubi, Mary Bronne
 
 Author List: Siddharth Khincha, Chelsi Jain, Vivek Gupta, **Tushar Kataria**, Shuo Zhang
 
-Archived Papers
+<span style="color:brown;">Archived Papers</span>
 ------
 
 -[**May 2023**, *Archive Version*] [***Unsupervised Domain Adaptation for Medical Image Segmentation via Feature-space Density Matching.***](https://arxiv.org/abs/2305.05789)
