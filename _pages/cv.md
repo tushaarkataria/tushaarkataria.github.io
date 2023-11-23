@@ -11,19 +11,19 @@ redirect_from:
 
 [Updated CV](http://tushaarkataria.github.io/files/cv.pdf)
 
-Publications
+<span style="color:blue;">Publications</span>
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<span style="color:orange;">Talks</span>
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+<span style="color:purple;">Teaching</span>
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
