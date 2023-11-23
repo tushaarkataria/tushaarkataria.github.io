@@ -15,9 +15,9 @@ Research Interests
 ------
 Broader research interests are image processing, medical image processing, deep learning and computer vision. Specifically, I am interested in **Semantic Segmentation, Instance Segmentation and Domain Adaptation** problems for medical imaging datasets. I am also interested in **Statistical Shape Modelling and MultiModal** machine learning.
 
-Advisor: [Prof. Shireen Elhabian](https://www.sci.utah.edu/~shireen/)
+**Advisor**: [Prof. Shireen Elhabian](https://www.sci.utah.edu/~shireen/)
 
-Collaborators: [Prof. Beatrice S. Knudsen](https://healthcare.utah.edu/fad/mddetail.php?physicianID=u6028236#tabAcademic), [Shikha Dubey](https://sites.google.com/view/shikha-dubey/), [Mokshagna Sai Teja Karanam](https://www.linkedin.com/in/mokshagna-sai-teja-karanam-372022169/), [Krithika Iyer](https://www.linkedin.com/in/iyerkrithika21/), [Vivek Gupta](https://vgupta123.github.io/). 
+*Collaborators*: [Prof. Beatrice S. Knudsen](https://healthcare.utah.edu/fad/mddetail.php?physicianID=u6028236#tabAcademic), [Shikha Dubey](https://sites.google.com/view/shikha-dubey/), [Mokshagna Sai Teja Karanam](https://www.linkedin.com/in/mokshagna-sai-teja-karanam-372022169/), [Krithika Iyer](https://www.linkedin.com/in/iyerkrithika21/), [Vivek Gupta](https://vgupta123.github.io/). 
 
 Recent News
 ------
