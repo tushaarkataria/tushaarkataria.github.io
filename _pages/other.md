@@ -1,6 +1,6 @@
 ---
 permalink: /other/
-title: "Other"
+title: "Hobbies and Other Activites"
 author_profile: true
 ---
 
