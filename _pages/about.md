@@ -20,6 +20,10 @@ Broader research interests are image processing, medical image processing, deep 
 
 <span style="color:blue;">Recent News</span>
 ------
+-[**Feb 2024**, *Accepted In ISBI 2024*] [***Unsupervised Domain Adaptation for Medical Image Segmentation via Feature-space Density Matching.***](https://arxiv.org/abs/2305.05789)
+
+<span style="color:red;">Author List</span>: **Tushar Kataria**, Beatrice Knudsen, Shireen  Elhabian.
+
 -[**Nov 2023**, **EduHPC-23: Workshop on Education for High Performance Computing**] [***An NSF REU Site Based on Trust and Reproducibility of Intelligent Computation: Experience Report***](https://dl.acm.org/doi/abs/10.1145/3624062.3624100).
 
 <span style="color:red;">Author  List</span>: Mary Hall, Ganesh Gopalakrishnan, Harvey Dam, Artem Yadrov, Amirmohammed Tavakkoli, Johanna Cohoon, Sameeran Joshi, Aditya Bhaskara, Eric Eide, Jeff Phillips, Mu Zhang, Shireen Elhabian, **Tushar Kataria**, and Mokshagna Sai Teja Karanam 
@@ -46,10 +50,6 @@ Broader research interests are image processing, medical image processing, deep 
 
 <span style="color:brown;">Archived Papers</span>
 ------
-
--[**May 2023**, *Archive Version*] [***Unsupervised Domain Adaptation for Medical Image Segmentation via Feature-space Density Matching.***](https://arxiv.org/abs/2305.05789)
-
-<span style="color:red;">Author List</span>: **Tushar Kataria**, Beatrice Knudsen, Shireen  Elhabian.
 
 -[**Nov 2023**, *Archive Version*] [***Multi-Set Inoculation: Assessing Model Robustness Across Multiple Challenge Sets***](https://arxiv.org/abs/2311.08662)
 
