@@ -20,7 +20,7 @@ Broader research interests are image processing, medical image processing, deep 
 
 <span style="color:blue;">Recent News</span>
 ------
--[**Feb 2024**, *Accepted In ISBI 2024*] [***Unsupervised Domain Adaptation for Medical Image Segmentation via Feature-space Density Matching.***](https://arxiv.org/abs/2305.05789)
+-[**Feb 2024**,**Accepted In ISBI 2024**][***Unsupervised Domain Adaptation for Medical Image Segmentation via Feature-space Density Matching.***](https://arxiv.org/abs/2305.05789)
 
 <span style="color:red;">Author List</span>: **Tushar Kataria**, Beatrice Knudsen, Shireen  Elhabian.
 
