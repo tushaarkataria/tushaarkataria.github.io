@@ -19,10 +19,8 @@ I read a decent amount of fiction, fantasy or political books every year. You ca
 
 - <span style="color:purple;">**ACT Volunteer Tutor, Bennion Center, University of Utah, (Current- Sep 2022)**</span> : Helping students with Maths and Science at one of the Public Libraries in Salt Lake City with other amazing volunteers.
 
-<p align="center">
-  <img src="https://github.com/tushaarkataria/tushaarkataria.github.io/blob/master/pages/IMG_1153.JPG">
-  <img src="https://github.com/tushaarkataria/tushaarkataria.github.io/blob/master/pages/IMG_1154.JPG">
-</p>
+<img src="https://github.com/tushaarkataria/tushaarkataria.github.io/blob/master/pages/IMG_1153.JPG"/>
+<img src="https://github.com/tushaarkataria/tushaarkataria.github.io/blob/master/pages/IMG_1154.JPG"/>
 
 
 - <span style="color:purple;">**Social Responsibility Group, Cadence Designs System, Pune (Dec 2020 -July 2017)** </span>: As a part of the social outreach program, I actively participated in selecting causes to assist, such as flood relief, care facilities for mentally challenged adults, care homes for adults with intellectual disabilities, and science education in rural areas. Volunteering for social outreach projects, creating new events centered around causes, promoting employee involvement, and other duties are also responsibilities.
