@@ -22,6 +22,7 @@ I read a decent amount of fiction, fantasy or political books every year. You ca
 <img src='/images/IMG_1153.JPG'>
 <img src='/images/IMG_1153.JPG'>
 
+
 - <span style="color:purple;">**Social Responsibility Group, Cadence Designs System, Pune (Dec 2020 -July 2017)** </span>: As a part of the social outreach program, I actively participated in selecting causes to assist, such as flood relief, care facilities for mentally challenged adults, care homes for adults with intellectual disabilities, and science education in rural areas. Volunteering for social outreach projects, creating new events centered around causes, promoting employee involvement, and other duties are also responsibilities.
 
 - <span style="color:purple;">**Volunteering for Leadership Development with Tech4Team in Collaboration with W.I.T.U., Uganda (Oct 2019- July 2019)**</span>: Part of team of 10 Cadence employees who went to Uganda to work with a local non-profit called Women in Technology, Uganda. We helped in building their first maker space, train their teachers on how to use 3D printing, virtual reality, electronics(BBC Microbit) and help in improving their entrepreneurship program. 
