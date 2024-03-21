@@ -46,7 +46,7 @@ Broader research interests are image processing, medical image processing, deep 
 
 -[**July 2023**, **ACL 2023**] [***InfoSync: Information Synchronization across Multilingual Semi-structured Tables***](https://aclanthology.org/2023.findings-acl.159/).
 
-<span style="color:red;">Author List</span>: Siddharth Khincha, Chelsi Jain, Vivek Gupta, **Tushar Kataria**, Shuo Zhang
+<span style="color:red;">Author List</span>: Siddharth Khincha, Chelsi Jain, <span style="color:magenta;">Vivek Gupta, **Tushar Kataria**</span>, Shuo Zhang
 
 <span style="color:brown;">Archived Papers</span>
 ------
@@ -61,7 +61,7 @@ Broader research interests are image processing, medical image processing, deep 
 
 -[**Mar 2023**, *Archive Version*] [***EfficientMorph: Parameter-Efficient Transformer-Based Architecture for 3D Image Registration***](https://arxiv.org/abs/2403.11026)
 
-<span style="color:red;">Author List</span>: *Abu Zahid Bin Aziz*, *Mokshagna Sai Teja Karanam*,**Tushar Kataria**,Shireen  Elhabian.
+<span style="color:red;">Author List</span>: <span style="color:magenta;">Abu Zahid Bin Aziz, Mokshagna Sai Teja Karanam</span>,**Tushar Kataria**,Shireen  Elhabian.
 
 -[**Mar 2023**, *Archive Version*] [***Estimation and Analysis of Slice Propagation Uncertainty in 3D Anatomy Segmentation***](https://arxiv.org/abs/2403.12290)
 
@@ -70,4 +70,7 @@ Broader research interests are image processing, medical image processing, deep 
 -[**Mar 2023**, *Archive Version*] [***MASSM: An End-to-End Deep Learning Framework for Multi-Anatomy Statistical Shape Modeling Directly From Images***](https://arxiv.org/abs/2403.11008)
 
 <span style="color:red;">Author List</span>: Janmesh Ukey, **Tushar Kataria**, Shireen Y. Elhabian
+
+
+<span style="color:magenta;">Equal Contribution</span>
 
