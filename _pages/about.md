@@ -16,7 +16,7 @@ Broader research interests are image processing, medical image processing, deep 
 
 <span style="color:orange;">**Advisor**</span>: [Prof. Shireen Elhabian](https://www.sci.utah.edu/~shireen/)
 
-<span style="color:purple;">**Collaborators**</span>: [Prof. Beatrice S. Knudsen](https://healthcare.utah.edu/fad/mddetail.php?physicianID=u6028236#tabAcademic), [Shikha Dubey](https://sites.google.com/view/shikha-dubey/), [Mokshagna Sai Teja Karanam](https://www.linkedin.com/in/mokshagna-sai-teja-karanam-372022169/), [Krithika Iyer](https://www.linkedin.com/in/iyerkrithika21/), [Vivek Gupta](https://vgupta123.github.io/). 
+<span style="color:purple;">**Collaborators**</span>: [Prof. Beatrice S. Knudsen](https://healthcare.utah.edu/fad/mddetail.php?physicianID=u6028236#tabAcademic), [Shikha Dubey](https://sites.google.com/view/shikha-dubey/), [Mokshagna Sai Teja Karanam](https://www.linkedin.com/in/mokshagna-sai-teja-karanam-372022169/), [Krithika Iyer](https://www.linkedin.com/in/iyerkrithika21/), [Vivek Gupta](https://vgupta123.github.io/), [Jadie Adams](http://www.sci.utah.edu/~jadie/), [Rachaell Nihalaani](https://www.linkedin.com/in/rachaell-nihalaani/), [Janmesh Ukey](https://www.linkedin.com/in/janmesh-ukey/), [Abu Zahid Bin Aziz](https://www.researchgate.net/profile/Abu-Zahid-Bin-Aziz) 
 
 <span style="color:blue;">Recent News</span>
 ------
