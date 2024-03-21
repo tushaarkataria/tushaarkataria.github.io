@@ -53,7 +53,7 @@ Broader research interests are image processing, medical image processing, deep 
 
 -[**Nov 2023**, *Archive Version*] [***Multi-Set Inoculation: Assessing Model Robustness Across Multiple Challenge Sets***](https://arxiv.org/abs/2311.08662)
 
-<span style="color:red;">Author List</span>: Vatsal Gupta, Pranshu Pandya,**Tushar Kataria**, Vivek Gupta, Dan Roth
+<span style="color:red;">Author List</span>: <span style="color:magenta;">Vatsal Gupta, Pranshu Pandya</span>,**Tushar Kataria**, Vivek Gupta, Dan Roth
 
 -[**Mar 2023**, *Archive Version*] [***StainDiffuser: MultiTask Dual Diffusion Model for Virtual Staining***](https://arxiv.org/abs/2403.11340)
 
