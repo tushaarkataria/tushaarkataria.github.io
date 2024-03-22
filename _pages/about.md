@@ -36,6 +36,7 @@ Broader research interests are image processing, medical image processing, deep 
 
 <span style="color:red;">Author List</span>: **Tushar Kataria**, Saradha Rajamani, Abdul Bari Ayubi, Mary Bronner, Jolanta Jedrzkiewicz, Beatrice Knudsen,  Shireen Elhabian. 
 
+<span style="color:blue;">Archived Paper</span>
 ------
 
 -[**Nov 2023**, *Archive Version*] [***Multi-Set Inoculation: Assessing Model Robustness Across Multiple Challenge Sets***](https://arxiv.org/abs/2311.08662)
