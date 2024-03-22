@@ -24,14 +24,6 @@ Broader research interests are image processing, medical image processing, deep 
 
 <span style="color:red;">Author List</span>: **Tushar Kataria**, Beatrice Knudsen, Shireen  Elhabian.
 
--[**Nov 2023**, **EduHPC-23: Workshop on Education for High Performance Computing**] [***An NSF REU Site Based on Trust and Reproducibility of Intelligent Computation: Experience Report***](https://dl.acm.org/doi/abs/10.1145/3624062.3624100).
-
-<span style="color:red;">Author  List</span>: Mary Hall, Ganesh Gopalakrishnan, Harvey Dam, Artem Yadrov, Amirmohammed Tavakkoli, Johanna Cohoon, Sameeran Joshi, Aditya Bhaskara, Eric Eide, Jeff Phillips, Mu Zhang, Shireen Elhabian, **Tushar Kataria**, and Mokshagna Sai Teja Karanam 
-
--[**Oct 2023**, **ShapeMI, MICCAI 2023**] [***ADASSM: Adversarial Data Augmentation in Statistical Shape Models From Images.***](https://link.springer.com/chapter/10.1007/978-3-031-46914-5_8).
-
-<span style="color:red;">Author  List</span>: Mokshagna Sai Teja Karanam, **Tushar Kataria**, Krithika Iyer, Shireen Elhabian.
-
 -[**Oct 2023**, **MILLanD, MICCAI 2023**] [***To pretrain or not to pretrain? A case study of domain-specific pretraining for semantic segmentation in histopathology.***](https://link.springer.com/chapter/10.1007/978-3-031-44917-8_24).
 
 <span style="color:red;">Author List</span>: **Tushar Kataria**, Beatrice Knudsen, Shireen  Elhabian.
@@ -44,11 +36,6 @@ Broader research interests are image processing, medical image processing, deep 
 
 <span style="color:red;">Author List</span>: **Tushar Kataria**, Saradha Rajamani, Abdul Bari Ayubi, Mary Bronner, Jolanta Jedrzkiewicz, Beatrice Knudsen,  Shireen Elhabian. 
 
--[**July 2023**, **ACL 2023**] [***InfoSync: Information Synchronization across Multilingual Semi-structured Tables***](https://aclanthology.org/2023.findings-acl.159/).
-
-<span style="color:red;">Author List</span>: Siddharth Khincha, Chelsi Jain, <span style="color:magenta;">Vivek Gupta, **Tushar Kataria**</span>, Shuo Zhang
-
-<span style="color:brown;">Archived Papers</span>
 ------
 
 -[**Nov 2023**, *Archive Version*] [***Multi-Set Inoculation: Assessing Model Robustness Across Multiple Challenge Sets***](https://arxiv.org/abs/2311.08662)
