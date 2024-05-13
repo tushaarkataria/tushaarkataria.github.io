@@ -43,19 +43,19 @@ Broader research interests are image processing, medical image processing, deep 
 
 <span style="color:red;">Author List</span>: <span style="color:magenta;">Vatsal Gupta, Pranshu Pandya</span>,**Tushar Kataria**, Vivek Gupta, Dan Roth
 
--[**Mar 2023**, *Archive Version*] [***StainDiffuser: MultiTask Dual Diffusion Model for Virtual Staining***](https://arxiv.org/abs/2403.11340)
+-[**Mar 2024**, *Archive Version*] [***StainDiffuser: MultiTask Dual Diffusion Model for Virtual Staining***](https://arxiv.org/abs/2403.11340)
 
 <span style="color:red;">Author List</span>: **Tushar Kataria**, Beatrice Knudsen, Shireen  Elhabian.
 
--[**Mar 2023**, *Archive Version*] [***EfficientMorph: Parameter-Efficient Transformer-Based Architecture for 3D Image Registration***](https://arxiv.org/abs/2403.11026)
+-[**Mar 2024**, *Archive Version*] [***EfficientMorph: Parameter-Efficient Transformer-Based Architecture for 3D Image Registration***](https://arxiv.org/abs/2403.11026)
 
 <span style="color:red;">Author List</span>: <span style="color:magenta;">Abu Zahid Bin Aziz, Mokshagna Sai Teja Karanam</span>,**Tushar Kataria**,Shireen  Elhabian.
 
--[**Mar 2023**, *Archive Version*] [***Estimation and Analysis of Slice Propagation Uncertainty in 3D Anatomy Segmentation***](https://arxiv.org/abs/2403.12290)
+-[**Mar 2024**, *Archive Version*] [***Estimation and Analysis of Slice Propagation Uncertainty in 3D Anatomy Segmentation***](https://arxiv.org/abs/2403.12290)
 
 <span style="color:red;">Author List</span>: Rachaell Nihalaani, **Tushar Kataria**, Jadie Adams, Shireen Y. Elhabian
 
--[**Mar 2023**, *Archive Version*] [***MASSM: An End-to-End Deep Learning Framework for Multi-Anatomy Statistical Shape Modeling Directly From Images***](https://arxiv.org/abs/2403.11008)
+-[**Mar 2024**, *Archive Version*] [***MASSM: An End-to-End Deep Learning Framework for Multi-Anatomy Statistical Shape Modeling Directly From Images***](https://arxiv.org/abs/2403.11008)
 
 <span style="color:red;">Author List</span>: Janmesh Ukey, **Tushar Kataria**, Shireen Y. Elhabian
 
