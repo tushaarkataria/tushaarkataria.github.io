@@ -34,11 +34,7 @@ Broader research interests are image processing, medical image processing, deep 
 
 <span style="color:red;">Author List</span>: **Tushar Kataria**, Beatrice Knudsen, Shireen  Elhabian.
 
--[**Dec 2023**, **Modern Pathology**] [***Automating Ground Truth Annotations For Gland Segmentation Through Immunohistochemistry.***](https://www.sciencedirect.com/science/article/pii/S0893395223002363?dgcid=coauthor).
-
-<span style="color:red;">Author List</span>: **Tushar Kataria**, Saradha Rajamani, Abdul Bari Ayubi, Mary Bronner, Jolanta Jedrzkiewicz, Beatrice Knudsen,  Shireen Elhabian. 
-
-<span style="color:blue;">Archived Paper</span>
+<span style="color:PaleGreen;">Archived Paper</span>
 ------
 
 -[**July 2024**, *Archive Version*] [***Weakly SSM : On the Viability of Weakly Supervised Segmentations for Statistical Shape Modeling***](https://arxiv.org/abs/2407.15260)
