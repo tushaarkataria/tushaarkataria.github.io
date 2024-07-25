@@ -34,7 +34,7 @@ Broader research interests are image processing, medical image processing, deep 
 
 <span style="color:red;">Author List</span>: **Tushar Kataria**, Beatrice Knudsen, Shireen  Elhabian.
 
-<span style="color:PaleGreen;">Archived Paper</span>
+<span style="color:IndianRed;">Archived Papers</span>
 ------
 
 -[**July 2024**, *Archive Version*] [***Weakly SSM : On the Viability of Weakly Supervised Segmentations for Statistical Shape Modeling***](https://arxiv.org/abs/2407.15260)
