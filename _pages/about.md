@@ -20,6 +20,10 @@ Broader research interests are image processing, medical image processing, deep 
 
 <span style="color:blue;">Recent News</span>
 ------
+-[**Mar 2024**, **Accepted In ShapeMI,MICCAI 2024**] [***MASSM: An End-to-End Deep Learning Framework for Multi-Anatomy Statistical Shape Modeling Directly From Images***](https://arxiv.org/abs/2403.11008)
+
+<span style="color:red;">Author List</span>: Janmesh Ukey, **Tushar Kataria**, Shireen Y. Elhabian
+
 -[**Mar 2024**, **Accepted In MICCAI 2024**] [***Estimation and Analysis of Slice Propagation Uncertainty in 3D Anatomy Segmentation***](https://arxiv.org/abs/2403.12290)
 
 <span style="color:red;">Author List</span>: Rachaell Nihalaani, **Tushar Kataria**, Jadie Adams, Shireen Y. Elhabian
@@ -43,9 +47,13 @@ Broader research interests are image processing, medical image processing, deep 
 <span style="color:blue;">Archived Paper</span>
 ------
 
--[**Nov 2023**, *Archive Version*] [***Multi-Set Inoculation: Assessing Model Robustness Across Multiple Challenge Sets***](https://arxiv.org/abs/2311.08662)
+-[**July 2024**, *Archive Version*] [*** Weakly SSM : On the Viability of Weakly Supervised Segmentations for Statistical Shape Modeling***](https://arxiv.org/abs/2407.15260)
 
-<span style="color:red;">Author List</span>: <span style="color:magenta;">Vatsal Gupta, Pranshu Pandya</span>,**Tushar Kataria**, Vivek Gupta, Dan Roth
+<span style="color:red;">Author List</span>: Janmesh Ukey, **Tushar Kataria**, Shireen Y. Elhabian
+
+-[**July 2024**, *Archive Version*] [*** NTSEBENCH: Cognitive Reasoning Benchmark for Vision Language Models ***](https://arxiv.org/abs/2407.10380)
+
+<span style="color:red;">Author List</span>: Pranshu Pandya, Agney S Talwarr, Vatsal Gupta, **Tushar Kataria**, Vivek Gupta, Dan Roth
 
 -[**Mar 2024**, *Archive Version*] [***StainDiffuser: MultiTask Dual Diffusion Model for Virtual Staining***](https://arxiv.org/abs/2403.11340)
 
@@ -55,10 +63,10 @@ Broader research interests are image processing, medical image processing, deep 
 
 <span style="color:red;">Author List</span>: <span style="color:magenta;">Abu Zahid Bin Aziz, Mokshagna Sai Teja Karanam</span>,**Tushar Kataria**,Shireen  Elhabian.
 
+-[**Nov 2023**, *Archive Version*] [***Multi-Set Inoculation: Assessing Model Robustness Across Multiple Challenge Sets***](https://arxiv.org/abs/2311.08662)
 
--[**Mar 2024**, *Archive Version*] [***MASSM: An End-to-End Deep Learning Framework for Multi-Anatomy Statistical Shape Modeling Directly From Images***](https://arxiv.org/abs/2403.11008)
+<span style="color:red;">Author List</span>: <span style="color:magenta;">Vatsal Gupta, Pranshu Pandya</span>,**Tushar Kataria**, Vivek Gupta, Dan Roth
 
-<span style="color:red;">Author List</span>: Janmesh Ukey, **Tushar Kataria**, Shireen Y. Elhabian
 
 
 <span style="color:magenta;">Equal Contribution</span>
