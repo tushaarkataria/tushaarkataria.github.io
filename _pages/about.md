@@ -20,7 +20,7 @@ Broader research interests are image processing, medical image processing, deep 
 
 <span style="color:blue;">Recent News</span>
 ------
--[**Mar 2024**, **Accepted In ShapeMI,MICCAI 2024**] [***MASSM: An End-to-End Deep Learning Framework for Multi-Anatomy Statistical Shape Modeling Directly From Images***](https://arxiv.org/abs/2403.11008)
+-[**Mar 2024**, **Accepted In ShapeMI, MICCAI 2024**] [***MASSM: An End-to-End Deep Learning Framework for Multi-Anatomy Statistical Shape Modeling Directly From Images***](https://arxiv.org/abs/2403.11008)
 
 <span style="color:red;">Author List</span>: Janmesh Ukey, **Tushar Kataria**, Shireen Y. Elhabian
 
