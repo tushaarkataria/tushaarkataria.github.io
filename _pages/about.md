@@ -18,6 +18,8 @@ Broader research interests are image processing, medical image processing, deep 
 
 <span style="color:purple;">**Collaborators**</span>: [Prof. Beatrice S. Knudsen](https://healthcare.utah.edu/fad/mddetail.php?physicianID=u6028236#tabAcademic), [Shikha Dubey](https://sites.google.com/view/shikha-dubey/), [Mokshagna Sai Teja Karanam](https://www.linkedin.com/in/mokshagna-sai-teja-karanam-372022169/), [Krithika Iyer](https://www.linkedin.com/in/iyerkrithika21/), [Vivek Gupta](https://vgupta123.github.io/), [Jadie Adams](http://www.sci.utah.edu/~jadie/), [Rachaell Nihalaani](https://www.linkedin.com/in/rachaell-nihalaani/), [Janmesh Ukey](https://www.linkedin.com/in/janmesh-ukey/), [Abu Zahid Bin Aziz](https://www.researchgate.net/profile/Abu-Zahid-Bin-Aziz) 
 
+<span style="color:orange;">**Reviewer Services**</span>: [MICCAI 2024](https://conferences.miccai.org/2024/en/), [ARR June Cycle 2024](https://openreview.net/group?id=aclweb.org/ACL/ARR/2024/June)
+
 <span style="color:blue;">Recent News</span>
 ------
 -[**Mar 2024**, **Accepted In ShapeMI, MICCAI 2024**] [***MASSM: An End-to-End Deep Learning Framework for Multi-Anatomy Statistical Shape Modeling Directly From Images***](https://arxiv.org/abs/2403.11008)
@@ -32,15 +34,7 @@ Broader research interests are image processing, medical image processing, deep 
 
 <span style="color:red;">Author List</span>: **Tushar Kataria**, Beatrice Knudsen, Shireen  Elhabian.
 
--[**Oct 2023**, **MILLanD, MICCAI 2023**] [***To pretrain or not to pretrain? A case study of domain-specific pretraining for semantic segmentation in histopathology.***](https://link.springer.com/chapter/10.1007/978-3-031-44917-8_24).
-
-<span style="color:red;">Author List</span>: **Tushar Kataria**, Beatrice Knudsen, Shireen  Elhabian.
-
--[**Oct 2023**, **MLMI, MICCAI 2023**] [***Structural Cycle GAN for Virtual Immunohistochemistry Staining of Gland Markers in the Colon.***](https://link.springer.com/chapter/10.1007/978-3-031-45676-3_45).
-
-<span style="color:red;">Author List</span>: Shikha Dubey,**Tushar Kataria**, Beatrice Knudsen, Shireen  Elhabian.
-
--[**Sep 2023**, **Modern Pathology**] [***Automating Ground Truth Annotations For Gland Segmentation Through Immunohistochemistry.***](https://www.sciencedirect.com/science/article/pii/S0893395223002363?dgcid=coauthor).
+-[**Dec 2023**, **Modern Pathology**] [***Automating Ground Truth Annotations For Gland Segmentation Through Immunohistochemistry.***](https://www.sciencedirect.com/science/article/pii/S0893395223002363?dgcid=coauthor).
 
 <span style="color:red;">Author List</span>: **Tushar Kataria**, Saradha Rajamani, Abdul Bari Ayubi, Mary Bronner, Jolanta Jedrzkiewicz, Beatrice Knudsen,  Shireen Elhabian. 
 
