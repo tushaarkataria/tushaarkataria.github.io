@@ -41,11 +41,11 @@ Broader research interests are image processing, medical image processing, deep 
 <span style="color:blue;">Archived Paper</span>
 ------
 
--[**July 2024**, *Archive Version*] [*** Weakly SSM : On the Viability of Weakly Supervised Segmentations for Statistical Shape Modeling***](https://arxiv.org/abs/2407.15260)
+-[**July 2024**, *Archive Version*] [***Weakly SSM : On the Viability of Weakly Supervised Segmentations for Statistical Shape Modeling***](https://arxiv.org/abs/2407.15260)
 
 <span style="color:red;">Author List</span>: Janmesh Ukey, **Tushar Kataria**, Shireen Y. Elhabian
 
--[**July 2024**, *Archive Version*] [*** NTSEBENCH: Cognitive Reasoning Benchmark for Vision Language Models ***](https://arxiv.org/abs/2407.10380)
+-[**July 2024**, *Archive Version*] [***NTSEBENCH: Cognitive Reasoning Benchmark for Vision Language Models***](https://arxiv.org/abs/2407.10380)
 
 <span style="color:red;">Author List</span>: Pranshu Pandya, Agney S Talwarr, Vatsal Gupta, **Tushar Kataria**, Vivek Gupta, Dan Roth
 
