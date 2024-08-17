@@ -23,7 +23,7 @@ Broader research interests are image processing, medical image processing, deep 
 <span style="color:blue;">Recent News</span>
 ------
 
-- [**Aug 2024 -May 2024**] <span style="color:brown;"> Summer Internship at Johnson and Johnson Innovation Labs. I worked at a Digital Pathology Imaging Intern working on TILs detection and other Image Processing Projects. </span>
+- [**Aug 2024 -May 2024**] <span style="color:brown;"> **Summer Internship at Johnson and Johnson Innovation Labs.** During my internship as a Digital Pathology Imaging Intern, I focused on developing methods for TILs detection and contributed to various image processing projects. </span>
 
 - [**Mar 2024**, **Accepted In ShapeMI, MICCAI 2024**] [***MASSM: An End-to-End Deep Learning Framework for Multi-Anatomy Statistical Shape Modeling Directly From Images***](https://arxiv.org/abs/2403.11008) 
 	
@@ -40,23 +40,23 @@ Broader research interests are image processing, medical image processing, deep 
 <span style="color:IndianRed;">Archived Papers</span>
 ------
 
-- [**July 2024**, *Archive Version*] [***Weakly SSM : On the Viability of Weakly Supervised Segmentations for Statistical Shape Modeling***](https://arxiv.org/abs/2407.15260)
+- [**July 2024, Archive Version**] [***Weakly SSM : On the Viability of Weakly Supervised Segmentations for Statistical Shape Modeling***](https://arxiv.org/abs/2407.15260)
 
 	<span style="color:red;">Author List</span>: Janmesh Ukey, **Tushar Kataria**, Shireen Y. Elhabian
 
-- [**July 2024**, *Archive Version*] [***NTSEBENCH: Cognitive Reasoning Benchmark for Vision Language Models***](https://arxiv.org/abs/2407.10380)
+- [**July 2024, Archive Version**] [***NTSEBENCH: Cognitive Reasoning Benchmark for Vision Language Models***](https://arxiv.org/abs/2407.10380)
 
 	<span style="color:red;">Author List</span>: Pranshu Pandya, Agney S Talwarr, Vatsal Gupta, **Tushar Kataria**, Vivek Gupta, Dan Roth
 
-- [**Mar 2024**, *Archive Version*] [***StainDiffuser: MultiTask Dual Diffusion Model for Virtual Staining***](https://arxiv.org/abs/2403.11340)
+- [**Mar 2024, Archive Version**] [***StainDiffuser: MultiTask Dual Diffusion Model for Virtual Staining***](https://arxiv.org/abs/2403.11340)
 
 	<span style="color:red;">Author List</span>: **Tushar Kataria**, Beatrice Knudsen, Shireen  Elhabian.
 
-- [**Mar 2024**, *Archive Version*] [***EfficientMorph: Parameter-Efficient Transformer-Based Architecture for 3D Image Registration***](https://arxiv.org/abs/2403.11026)
+- [**Mar 2024, Archive Version**] [***EfficientMorph: Parameter-Efficient Transformer-Based Architecture for 3D Image Registration***](https://arxiv.org/abs/2403.11026)
 
 	<span style="color:red;">Author List</span>: <span style="color:magenta;">Abu Zahid Bin Aziz, Mokshagna Sai Teja Karanam</span>,**Tushar Kataria**,Shireen  Elhabian.
 
-- [**Nov 2023**, *Archive Version*] [***Multi-Set Inoculation: Assessing Model Robustness Across Multiple Challenge Sets***](https://arxiv.org/abs/2311.08662)
+- [**Nov 2023, Archive Version**] [***Multi-Set Inoculation: Assessing Model Robustness Across Multiple Challenge Sets***](https://arxiv.org/abs/2311.08662)
 
 	<span style="color:red;">Author List</span>: <span style="color:magenta;">Vatsal Gupta, Pranshu Pandya</span>,**Tushar Kataria**, Vivek Gupta, Dan Roth
 
