@@ -25,15 +25,15 @@ Broader research interests are image processing, medical image processing, deep 
 
 - [**Aug 2024 -May 2024**] <span style="color:brown;"> Summer Internship at Johnson and Johnson Innovation Labs. I worked at a Digital Pathology Imaging Intern working on TILs detection and other Image Processing Projects. </span>
 
--[**Mar 2024**, **Accepted In ShapeMI, MICCAI 2024**] [***MASSM: An End-to-End Deep Learning Framework for Multi-Anatomy Statistical Shape Modeling Directly From Images***](https://arxiv.org/abs/2403.11008)
+- [**Mar 2024**, **Accepted In ShapeMI, MICCAI 2024**] [***MASSM: An End-to-End Deep Learning Framework for Multi-Anatomy Statistical Shape Modeling Directly From Images***](https://arxiv.org/abs/2403.11008)
 
 <span style="color:red;">Author List</span>: Janmesh Ukey, **Tushar Kataria**, Shireen Y. Elhabian
 
--[**Mar 2024**, **Accepted In MICCAI 2024**] [***Estimation and Analysis of Slice Propagation Uncertainty in 3D Anatomy Segmentation***](https://arxiv.org/abs/2403.12290)
+- [**Mar 2024**, **Accepted In MICCAI 2024**] [***Estimation and Analysis of Slice Propagation Uncertainty in 3D Anatomy Segmentation***](https://arxiv.org/abs/2403.12290)
 
 <span style="color:red;">Author List</span>: Rachaell Nihalaani, **Tushar Kataria**, Jadie Adams, Shireen Y. Elhabian
 
--[**Feb 2024**, **Accepted In ISBI 2024**] [***Unsupervised Domain Adaptation for Medical Image Segmentation via Feature-space Density Matching.***](https://arxiv.org/abs/2305.05789)
+- [**Feb 2024**, **Accepted In ISBI 2024**] [***Unsupervised Domain Adaptation for Medical Image Segmentation via Feature-space Density Matching.***](https://arxiv.org/abs/2305.05789)
 
 <span style="color:red;">Author List</span>: **Tushar Kataria**, Beatrice Knudsen, Shireen  Elhabian.
 
