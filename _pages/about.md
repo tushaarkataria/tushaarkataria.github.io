@@ -22,6 +22,9 @@ Broader research interests are image processing, medical image processing, deep 
 
 <span style="color:blue;">Recent News</span>
 ------
+
+- [**Aug 2024 -May 2024**] <span style="color:brown;"> Summer Internship at Johnson and Johnson Innovation Labs. I worked at a Digital Pathology Imaging Intern working on TILs detection and other Image Processing Projects. </span>
+
 -[**Mar 2024**, **Accepted In ShapeMI, MICCAI 2024**] [***MASSM: An End-to-End Deep Learning Framework for Multi-Anatomy Statistical Shape Modeling Directly From Images***](https://arxiv.org/abs/2403.11008)
 
 <span style="color:red;">Author List</span>: Janmesh Ukey, **Tushar Kataria**, Shireen Y. Elhabian
@@ -56,7 +59,6 @@ Broader research interests are image processing, medical image processing, deep 
 -[**Nov 2023**, *Archive Version*] [***Multi-Set Inoculation: Assessing Model Robustness Across Multiple Challenge Sets***](https://arxiv.org/abs/2311.08662)
 
 <span style="color:red;">Author List</span>: <span style="color:magenta;">Vatsal Gupta, Pranshu Pandya</span>,**Tushar Kataria**, Vivek Gupta, Dan Roth
-
 
 
 <span style="color:magenta;">Equal Contribution</span>
