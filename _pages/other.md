@@ -17,7 +17,7 @@ I read a decent amount of fiction, fantasy or political books every year. You ca
 <span style="color:blue;">VOLUNTEERING EXPERIENCE</span>
 ------
 
-- <span style="color:purple;">**ACT Volunteer Tutor, Bennion Center, University of Utah, (Current- Sep 2022)**</span> : Helping students with Maths and Science at one of the Public Libraries in Salt Lake City with other amazing volunteers.
+- <span style="color:purple;">**ACT Volunteer Tutor, Bennion Center, University of Utah, (Mar 2024- Sep 2022)**</span> : Helping students with Maths and Science at one of the Public Libraries in Salt Lake City with other amazing volunteers.
 
 <img src='/images/Marmalade.png' width="700" height="400">
 
