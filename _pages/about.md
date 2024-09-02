@@ -33,7 +33,7 @@ Broader research interests are image processing, medical image processing, deep 
 
 	<span style="color:red;">Author List</span>: Rachaell Nihalaani, **Tushar Kataria**, Jadie Adams, Shireen Y. Elhabian
 
-- [**Feb 2024**, **Accepted In ISBI 2024**] [***Unsupervised Domain Adaptation for Medical Image Segmentation via Feature-space Density Matching.***](https://arxiv.org/abs/2305.05789)
+- [**Feb 2024**, **ISBI 2024**] [***Unsupervised Domain Adaptation for Medical Image Segmentation via Feature-space Density Matching.***](https://ieeexplore.ieee.org/abstract/document/10635646)
 
 	<span style="color:red;">Author List</span>: **Tushar Kataria**, Beatrice Knudsen, Shireen  Elhabian.
 
