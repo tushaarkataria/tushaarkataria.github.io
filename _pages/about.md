@@ -22,6 +22,13 @@ Broader research interests are image processing, medical image processing, deep 
 
 <span style="color:blue;">Recent News</span>
 ------
+- [**Oct 2024, Accepted to WACV-2025**] [***EfficientMorph: Parameter-Efficient Transformer-Based Architecture for 3D Image Registration***](https://arxiv.org/abs/2403.11026)
+
+	<span style="color:red;">Author List</span>: <span style="color:magenta;">Abu Zahid Bin Aziz, Mokshagna Sai Teja Karanam</span>,**Tushar Kataria**,Shireen  Elhabian.
+
+- [**Nov 2023, Accepted to EMNLP 2025**] [***Evaluating Concurrent Robustness of Language Models Across Diverse Challenge Sets***](https://aclanthology.org/2024.emnlp-main.1237/)
+
+	<span style="color:red;">Author List</span>: <span style="color:magenta;">Vatsal Gupta, Pranshu Pandya</span>,**Tushar Kataria**, Vivek Gupta, Dan Roth
 
 - [**Aug 2024 -May 2024**] <span style="color:brown;"> **Summer Internship at Johnson and Johnson Innovation Labs.** During my internship as a Digital Pathology Imaging Intern, I focused on developing methods for TILs detection and contributed to various image processing projects. </span>
 
@@ -52,13 +59,7 @@ Broader research interests are image processing, medical image processing, deep 
 
 	<span style="color:red;">Author List</span>: **Tushar Kataria**, Beatrice Knudsen, Shireen  Elhabian.
 
-- [**Mar 2024, Archive Version**] [***EfficientMorph: Parameter-Efficient Transformer-Based Architecture for 3D Image Registration***](https://arxiv.org/abs/2403.11026)
 
-	<span style="color:red;">Author List</span>: <span style="color:magenta;">Abu Zahid Bin Aziz, Mokshagna Sai Teja Karanam</span>,**Tushar Kataria**,Shireen  Elhabian.
-
-- [**Nov 2023, Archive Version**] [***Multi-Set Inoculation: Assessing Model Robustness Across Multiple Challenge Sets***](https://arxiv.org/abs/2311.08662)
-
-	<span style="color:red;">Author List</span>: <span style="color:magenta;">Vatsal Gupta, Pranshu Pandya</span>,**Tushar Kataria**, Vivek Gupta, Dan Roth
 
 
 <span style="color:magenta;">Equal Contribution</span>
