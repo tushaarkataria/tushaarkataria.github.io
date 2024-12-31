@@ -22,7 +22,7 @@ Broader research interests are image processing, medical image processing, deep 
 
 <span style="color:blue;">Recent News</span>
 ------
-- [**Nov 2024, EMNLP 2025**] [***Evaluating Concurrent Robustness of Language Models Across Diverse Challenge Sets***](https://aclanthology.org/2024.emnlp-main.1237/)
+- [**Nov 2024, EMNLP 2024**] [***Evaluating Concurrent Robustness of Language Models Across Diverse Challenge Sets***](https://aclanthology.org/2024.emnlp-main.1237/)
 
 	<span style="color:red;">Author List</span>: <span style="color:magenta;">Vatsal Gupta, Pranshu Pandya</span>,**Tushar Kataria**, Vivek Gupta, Dan Roth
 
