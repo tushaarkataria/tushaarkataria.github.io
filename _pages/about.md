@@ -12,7 +12,8 @@ Hello, I am Tushar Kataria, a PhD candidate at [University of Utah, Utah](https:
 
 <span style="color:green;">Research Interests</span>
 ------
-Broader research interests are image processing, medical image processing, deep learning and computer vision. Specifically, I am interested in **Semantic Segmentation, Instance Segmentation and Domain Adaptation** problems for medical imaging datasets. I am also interested in **Statistical Shape Modelling and MultiModal** machine learning.
+
+My broader research interests lie in **image processing, medical image processing, deep learning, and computer vision**. Specifically, I focus on **semantic segmentation, instance segmentation, and domain adaptation** challenges in **medical imaging** datasets. I am also interested in **statistical shape modeling and multimodal** machine learning. Currently, my projects explore **conditional image generation models** for applications such as **virtual staining and MRI-to-MRI translation**, as well as **3D volume registration**.
 
 <span style="color:orange;">**Advisor**</span>: [Prof. Shireen Elhabian](https://www.sci.utah.edu/~shireen/)
 
