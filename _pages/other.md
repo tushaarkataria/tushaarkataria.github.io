@@ -8,10 +8,6 @@ author_profile: true
 ------
 I was born and brought up in Delhi, India. I studied at Indira Ideal Sr. Sec. School, Janak Puri. I completed my bachelors from [Ambedkar Institute of Advanced Communication Technologies and Research](https://aiactr.ac.in/) which is affiliated with [Guru Gobind Singh Indraprastha University](https://www.ipu.ac.in/). After my bachelors, I enrolled in Master of Technology Program in [Electtrical Engineering](https://www.ee.iitb.ac.in/web) Department at [IIT Bombay](https://www.iitb.ac.in/), India. I worked with [Prof. Ashish Vanmali, VCET(a PhD candidate at that time)](https://vcet.edu.in/departments/information-technology-engineering/ashish-vanmali/) and [Prof. V.M. Gadre, EE, IIT](https://www.ee.iitb.ac.in/wiki/faculty/vmgadre) while at IIT. After my Graduation, I worked in Cadence Design Systems IP Group(Formerly Tensilica) as a Lead Design Engineer.
 
-<span style="color:orange;">READING</span>
--------
-I read a decent amount of fiction, fantasy or political books every year. You can use the link below to find some books which you might like.
-[My GoodReads Acount](https://www.goodreads.com/user/show/16894718-tushaar-kataria)
 
 
 <span style="color:blue;">VOLUNTEERING EXPERIENCE</span>
@@ -37,5 +33,22 @@ I read a decent amount of fiction, fantasy or political books every year. You ca
 - <span style="color:purple;">**Ed Support Volunteer, MAD (Feb 2020-Dec 2017)**</span>: Taught Maths and English to orphanage students enrolled in diploma programs at university.
 
 - <span style="color:purple;">**Volunteer Teacher, Abhyasika (July 2017-Aug 2014)**</span> : Weekly English and Math tutoring for students from economically disadvantaged families. 
+
+<span style="color:orange;">READING</span>
+-------
+I read a decent amount of fiction, fantasy or political books every year. You can use the link below to find some books which you might like.
+[My GoodReads Acount](https://www.goodreads.com/user/show/16894718-tushaar-kataria)
+
+<span style="color:orange;">POTTERY</span>
+-------
+
+<img src='/images/Pottery.png' width="700" height="400">
+
+<span style="color:orange;">PAINTING</span>
+-------
+
+Not Original, rather tried to recreate from exisiting works.
+
+<img src='/images/Painting-March-2025.png' width="700" height="400">
 
 
