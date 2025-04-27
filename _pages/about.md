@@ -28,7 +28,8 @@ My broader research interests lie in **image processing, medical image processin
 <span style="color:SlateBlue;">**Reviewer Services Journal**</span>: [Medical Image Analysis 2025](https://www.sciencedirect.com/journal/medical-image-analysis) 
 
 
-<span style="color:purple;">**Internship**</span>
+<span style="color:purple;">Internship</span>
+------
 
 - [**Aug 2024 -May 2024**] <span style="color:brown;"> **Summer Internship at Johnson and Johnson Innovation Labs.** During my internship as a Digital Pathology Imaging Intern, I focused on developing methods for TILs detection and contributed to various image processing projects. </span>
 
