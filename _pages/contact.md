@@ -1,6 +1,6 @@
 ---
 permalink: /contact/
-title: "Poems"
+title: "Contact"
 author_profile: true
 ---
 
