@@ -65,6 +65,13 @@ My broader research interests lie in **image processing, medical image processin
 
 	<span style="color:red;">Author List</span>: **Tushar Kataria**, Beatrice Knudsen, Shireen  Elhabian.
 
+- [**May 2025, Archive Version**] [***ImplicitStainer: Data-Efficient Medical Image Translation for Virtual Antibody-based Tissue Staining Using Local Implicit Functions***](https://arxiv.org/abs/2505.09831)
+
+	<span style="color:red;">Author List</span>: **Tushar Kataria**, Beatrice Knudsen, Shireen  Elhabian.
+
+- [**May 2025, Archive Version**] [***BoundarySeg:An Embarrassingly Simple Method To Boost Medical Image Segmentation Performance for Low Data Regimes***](https://arxiv.org/abs/2505.09829)
+
+	<span style="color:red;">Author List</span>: **Tushar Kataria**, Shireen  Elhabian.
 
 <span style="color:magenta;">Equal Contribution</span>
 
