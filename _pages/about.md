@@ -23,9 +23,9 @@ My broader research interests lie in **image processing, medical image processin
 
 <span style="color:purple;">**Past Collaborators**</span>: [Shikha Dubey](https://sites.google.com/view/shikha-dubey/), [Krithika Iyer](https://www.linkedin.com/in/iyerkrithika21/), [Jadie Adams](http://www.sci.utah.edu/~jadie/), [Rachaell Nihalaani](https://www.linkedin.com/in/rachaell-nihalaani/), [Janmesh Ukey](https://www.linkedin.com/in/janmesh-ukey/)  
 
-<span style="color:SlateBlue;">**Reviewer Services Conferences**</span>: [MICCAI 2024,2025](https://miccai.org/index.php/), [ARR (June,October) 2024, Feb 2025](https://aclrollingreview.org/), [ICLR 2025](https://iclr.cc/), [MIUA 2025](https://conferences.leeds.ac.uk/miua/), 
+<span style="color:SlateBlue;">**Reviewer Services Conferences**</span>: [MICCAI 2024,2025](https://miccai.org/index.php/), [ARR (June,October) 2024, Feb 2025](https://aclrollingreview.org/), [ICLR 2025](https://iclr.cc/), [MIUA 2025](https://conferences.leeds.ac.uk/miua/) 
 
-<span style="color:SlateBlue;">**Reviewer Services Journal**</span>: [Medical Image Analysis 2025](https://www.sciencedirect.com/journal/medical-image-analysis) 
+<span style="color:SlateBlue;">**Reviewer Services Journal**</span>: [Medical Image Analysis 2025](https://www.sciencedirect.com/journal/medical-image-analysis), [Nature Communication](https://www.nature.com/ncomms/) 
 
 
 <span style="color:purple;">Internship</span>
@@ -38,15 +38,15 @@ My broader research interests lie in **image processing, medical image processin
 ------
 - [**March 2025 -April 2025**] <span style="color:brown;"> **Passed My Written PhD Qualifying Exam.** </span>
 
-- [**April 2025, NAACL 2025**] [***Leveraging LLM For Synchronizing Information Across Multilingual Tables***](https://arxiv.org/abs/2407.10380)
+- [**April 2025, NAACL 2025**] [***Leveraging LLM For Synchronizing Information Across Multilingual Tables***](https://aclanthology.org/2025.naacl-long.329/)
 
 	<span style="color:red;">Author List</span>: Siddharth Khincha, **Tushar Kataria**, Ankita Anand, Vivek Gupta, Dan Roth
 
-- [**April 2025, NAACL 2025**] [***TransientTables: Evaluating LLMs' Reasoning on Temporally Evolving Semi-structured Tables***](https://arxiv.org/abs/2504.01879)
+- [**April 2025, NAACL 2025**] [***TransientTables: Evaluating LLMs' Reasoning on Temporally Evolving Semi-structured Tables***](https://aclanthology.org/2025.naacl-long.332/)
 
 	<span style="color:red;">Author List</span>: <span style="color:magenta;">Abhilash Shankarampeta</span>, <span style="color:magenta;">Harsh Mahajan</span>, **Tushar Kataria**, Vivek Gupta, Dan Roth
 
-- [**April 2025, NAACL 2025**] [***NTSEBENCH: Cognitive Reasoning Benchmark for Vision Language Models***](https://arxiv.org/abs/2407.10380)
+- [**April 2025, NAACL 2025**] [***NTSEBENCH: Cognitive Reasoning Benchmark for Vision Language Models***](https://aclanthology.org/2025.findings-naacl.204/)
 
 	<span style="color:red;">Author List</span>: <span style="color:magenta;">Pranshu Pandya</span>, <span style="color:magenta;">Vatsal Gupta</span>, Agney S Talwarr, **Tushar Kataria**, Vivek Gupta, Dan Roth
 
