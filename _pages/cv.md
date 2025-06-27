@@ -9,7 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-[Updated CV](http://tushaarkataria.github.io/files/cv.pdf)
+<object data="files/cv.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="files/cv.pdf">
+        
+    </embed>
+</object>
 
 <span style="color:blue;">Publications</span>
 ======
