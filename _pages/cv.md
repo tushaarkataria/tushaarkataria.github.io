@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-<object data="files/cv.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="files/cv.pdf">
+<object data="https://github.com/tushaarkataria/tushaarkataria.github.io/blob/master/files/cv.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/tushaarkataria/tushaarkataria.github.io/blob/master/files/cv.pdf">
         
     </embed>
 </object>
