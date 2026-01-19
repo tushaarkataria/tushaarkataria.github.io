@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 [Updated CV Academic](http://tushaarkataria.github.io/files/cv.pdf)
+
 [Updated CV Professional](http://tushaarkataria.github.io/files/CV_Corporate.pdf)
 
 <span style="color:blue;">Publications</span>
