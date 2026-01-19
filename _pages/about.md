@@ -27,12 +27,11 @@ My broader research interests lie in **image processing, medical image processin
 
 <span style="color:SlateBlue;">**Reviewer Services Journal**</span>: [Medical Image Analysis 2025](https://www.sciencedirect.com/journal/medical-image-analysis), [Nature Communication](https://www.nature.com/ncomms/), [IEEE JBHI](https://www.embs.org/jbhi/), [IEEE TMI](https://ieeetmi.org/) 
 
-
-
-
 <span style="color:blue;">Recent News</span>
 ------
 - [**March 2025 -April 2025**] <span style="color:brown;"> **Passed My Written PhD Qualifying Exam.** </span>
+
+- [**July 2025**] <span style="color:brown;"> **MIDL Organization**</span>. Lead Vounteer at MIDL 2026. Helped in organization of the MIDL 2026 conference, workshop and tutorials held in Salt Lake City, Utah.
 
 <span style="color:IndianRed;">Archived Papers</span>
 ------
