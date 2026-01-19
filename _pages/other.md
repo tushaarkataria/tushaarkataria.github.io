@@ -12,6 +12,9 @@ I was born and brought up in Delhi, India. I studied at Indira Ideal Sr. Sec. Sc
 
 <span style="color:blue;">VOLUNTEERING EXPERIENCE</span>
 ------
+- <span style="color:purple;">**MIDL 2026, Conference (July 2025)**</span> : Lead Volunteer corrdinating organization of the conference and volunteering activities for the full conference, workshop and doctoral symposium. 
+
+<img src='/images/midl2026.jpg' width="400" height="500">
 
 - <span style="color:purple;">**ACT Volunteer Tutor, Bennion Center, University of Utah, (Mar 2024- Sep 2022)**</span> : Helping students with Maths and Science at one of the Public Libraries in Salt Lake City with other amazing volunteers.
 
