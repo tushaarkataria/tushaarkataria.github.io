@@ -23,36 +23,16 @@ My broader research interests lie in **image processing, medical image processin
 
 <span style="color:purple;">**Past Collaborators**</span>: [Shikha Dubey](https://sites.google.com/view/shikha-dubey/), [Krithika Iyer](https://www.linkedin.com/in/iyerkrithika21/), [Jadie Adams](http://www.sci.utah.edu/~jadie/), [Rachaell Nihalaani](https://www.linkedin.com/in/rachaell-nihalaani/), [Janmesh Ukey](https://www.linkedin.com/in/janmesh-ukey/)  
 
-<span style="color:SlateBlue;">**Reviewer Services Conferences**</span>: [MICCAI 2024,2025](https://miccai.org/index.php/), [ARR (June,October) 2024, Feb 2025](https://aclrollingreview.org/), [ICLR 2025,2026](https://iclr.cc/), [MIUA 2025](https://conferences.leeds.ac.uk/miua/), [ShapeMI 2025](https://shapemi.github.io/), [ISBI 2026](https://biomedicalimaging.org/2026/),[MIDL 2026](https://2026.midl.io/)
+<span style="color:SlateBlue;">**Reviewer Services Conferences**</span>: [MICCAI 2024,2025](https://miccai.org/index.php/), [ARR (June,October) 2024, Feb 2025](https://aclrollingreview.org/), [ICLR 2025,2026](https://iclr.cc/), [MIUA 2025](https://conferences.leeds.ac.uk/miua/), [ShapeMI 2025](https://shapemi.github.io/), [ISBI 2026](https://biomedicalimaging.org/2026/), [MIDL 2026](https://2026.midl.io/)
 
-<span style="color:SlateBlue;">**Reviewer Services Journal**</span>: [Medical Image Analysis 2025](https://www.sciencedirect.com/journal/medical-image-analysis), [Nature Communication](https://www.nature.com/ncomms/),[IEEE JBHI](https://www.embs.org/jbhi/),[IEEE TMI](https://ieeetmi.org/) 
+<span style="color:SlateBlue;">**Reviewer Services Journal**</span>: [Medical Image Analysis 2025](https://www.sciencedirect.com/journal/medical-image-analysis), [Nature Communication](https://www.nature.com/ncomms/), [IEEE JBHI](https://www.embs.org/jbhi/), [IEEE TMI](https://ieeetmi.org/) 
 
 
-<span style="color:purple;">Internship</span>
-------
-
-- [**Aug 2024 -May 2024**] <span style="color:brown;"> **Summer Internship at Johnson and Johnson Innovation Labs.** During my internship as a Digital Pathology Imaging Intern, I focused on developing methods for TILs detection and contributed to various image processing projects. </span>
 
 
 <span style="color:blue;">Recent News</span>
 ------
 - [**March 2025 -April 2025**] <span style="color:brown;"> **Passed My Written PhD Qualifying Exam.** </span>
-
-- [**April 2025, NAACL 2025**] [***Leveraging LLM For Synchronizing Information Across Multilingual Tables***](https://aclanthology.org/2025.naacl-long.329/)
-
-	<span style="color:red;">Author List</span>: Siddharth Khincha, **Tushar Kataria**, Ankita Anand, Vivek Gupta, Dan Roth
-
-- [**April 2025, NAACL 2025**] [***TransientTables: Evaluating LLMs' Reasoning on Temporally Evolving Semi-structured Tables***](https://aclanthology.org/2025.naacl-long.332/)
-
-	<span style="color:red;">Author List</span>: <span style="color:magenta;">Abhilash Shankarampeta</span>, <span style="color:magenta;">Harsh Mahajan</span>, **Tushar Kataria**, Vivek Gupta, Dan Roth
-
-- [**April 2025, NAACL 2025**] [***NTSEBENCH: Cognitive Reasoning Benchmark for Vision Language Models***](https://aclanthology.org/2025.findings-naacl.204/)
-
-	<span style="color:red;">Author List</span>: <span style="color:magenta;">Pranshu Pandya</span>, <span style="color:magenta;">Vatsal Gupta</span>, Agney S Talwarr, **Tushar Kataria**, Vivek Gupta, Dan Roth
-
-- [**Feb 2025,  WACV-2025**] [***EfficientMorph: Parameter-Efficient Transformer-Based Architecture for 3D Image Registration***](https://arxiv.org/abs/2403.11026)
-
-	<span style="color:red;">Author List</span>: <span style="color:magenta;">Abu Zahid Bin Aziz, Mokshagna Sai Teja Karanam</span>,**Tushar Kataria**,Shireen  Elhabian.
 
 <span style="color:IndianRed;">Archived Papers</span>
 ------
