@@ -23,9 +23,9 @@ My broader research interests lie in **image processing, medical image processin
 
 <span style="color:purple;">**Past Collaborators**</span>: [Shikha Dubey](https://sites.google.com/view/shikha-dubey/), [Krithika Iyer](https://www.linkedin.com/in/iyerkrithika21/), [Jadie Adams](http://www.sci.utah.edu/~jadie/), [Rachaell Nihalaani](https://www.linkedin.com/in/rachaell-nihalaani/), [Janmesh Ukey](https://www.linkedin.com/in/janmesh-ukey/)  
 
-<span style="color:SlateBlue;">**Reviewer Services Conferences**</span>: [MICCAI 2024,2025](https://miccai.org/index.php/), [ARR (June,October) 2024, Feb 2025](https://aclrollingreview.org/), [ICLR 2025,2026](https://iclr.cc/), [MIUA 2025](https://conferences.leeds.ac.uk/miua/),[CVPR 2026](https://cvpr.thecvf.com/), [ShapeMI 2025](https://shapemi.github.io/), [ISBI 2026](https://biomedicalimaging.org/2026/),[MIDL 2026](https://2026.midl.io/)
+<span style="color:SlateBlue;">**Reviewer Services Conferences**</span>: [MICCAI 2024,2025](https://miccai.org/index.php/), [ARR (June,October) 2024, Feb 2025](https://aclrollingreview.org/), [ICLR 2025,2026](https://iclr.cc/), [MIUA 2025](https://conferences.leeds.ac.uk/miua/), [ShapeMI 2025](https://shapemi.github.io/), [ISBI 2026](https://biomedicalimaging.org/2026/),[MIDL 2026](https://2026.midl.io/)
 
-<span style="color:SlateBlue;">**Reviewer Services Journal**</span>: [Medical Image Analysis 2025](https://www.sciencedirect.com/journal/medical-image-analysis), [Nature Communication](https://www.nature.com/ncomms/),[IEEE JBHI](https://www.embs.org/jbhi/) 
+<span style="color:SlateBlue;">**Reviewer Services Journal**</span>: [Medical Image Analysis 2025](https://www.sciencedirect.com/journal/medical-image-analysis), [Nature Communication](https://www.nature.com/ncomms/),[IEEE JBHI](https://www.embs.org/jbhi/),[IEEE TMI](https://ieeetmi.org/) 
 
 
 <span style="color:purple;">Internship</span>
