@@ -58,13 +58,22 @@ My broader research interests lie in **image processing, medical image processin
 <span style="color:IndianRed;">Archived Papers</span>
 ------
 
-- [**Aug 2026, Archive Version**] [***StainDiffuser: MultiTask Dual Diffusion Model for Virtual Staining***](https://arxiv.org/abs/2403.11340)
+- [**April 2026, Archive Version**] [***MorphoFlow: Sparse-Supervised Generative Shape Modeling with Adaptive Latent Relevance***](https://arxiv.org/abs/2604.11636)
 
-	<span style="color:red;">Author List</span>: **Tushar Kataria**, Beatrice Knudsen, Shireen  Elhabian.
+	<span style="color:red;">Author List</span>: Mokshagna Sai Teja Karanam, **Tushar Kataria**, Shireen Elhabian.
 
 - [**Nov 2025, Archive Version**] [***Building Trust in Virtual Immunohistochemistry: Automated Assessment of Image Quality***](https://arxiv.org/abs/2511.04615)
 
 	<span style="color:red;">Author List</span>: **Tushar Kataria**,Shikha Dubey, Mary Bronner, Jolanta Jedrzkiewicz, Ben J. Brintz,<span style="color:magenta;">Shireen Elhabian</span>, <span style="color:magenta;">Beatrice Knudsen</span>.
+
+- [**May 2025, Archive Version**] [***BoundarySeg:An Embarrassingly Simple Method To Boost Medical Image Segmentation Performance for Low Data Regimes***](https://arxiv.org/abs/2505.09829)
+
+	<span style="color:red;">Author List</span>: **Tushar Kataria**, Shireen  Elhabian.
+
+- [**May 2025, Archive Version**] [***StainDiffuser: MultiTask Dual Diffusion Model for Virtual Staining***](https://arxiv.org/abs/2403.11340)
+
+	<span style="color:red;">Author List</span>: **Tushar Kataria**, Beatrice Knudsen, Shireen  Elhabian.
+
 
 <span style="color:magenta;">Equal Contribution</span>
 
