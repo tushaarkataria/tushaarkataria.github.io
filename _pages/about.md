@@ -38,7 +38,7 @@ My broader research interests lie in **image processing, medical image processin
 
 	<span style="color:red;">Author List</span>: Md Rakibul Haque, **Tushar Kataria**, Shireen Y. Elhabian
 
-- [**July 2026, Accepted to ShapeMI 2026**] [***On the Viability of Semi-Supervised Segmentation Methods for Statistical Shape Modeling***](https://arxiv.org/abs/2407.15260)
+- [**Aug 2026, Accepted to ShapeMI 2026**] [***On the Viability of Semi-Supervised Segmentation Methods for Statistical Shape Modeling***](https://arxiv.org/abs/2407.15260)
 
 	<span style="color:red;">Author List</span>: <span style="color:magenta;">Asma Khan</span>, <span style="color:magenta;">**Tushar Kataria**</span>, Janmesh Ukey, Shireen Y. Elhabian
 
