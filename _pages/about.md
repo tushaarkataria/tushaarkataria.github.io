@@ -23,49 +23,48 @@ My broader research interests lie in **image processing, medical image processin
 
 <span style="color:purple;">**Past Collaborators**</span>: [Shikha Dubey](https://sites.google.com/view/shikha-dubey/), [Krithika Iyer](https://www.linkedin.com/in/iyerkrithika21/), [Jadie Adams](http://www.sci.utah.edu/~jadie/), [Rachaell Nihalaani](https://www.linkedin.com/in/rachaell-nihalaani/), [Janmesh Ukey](https://www.linkedin.com/in/janmesh-ukey/)  
 
-<span style="color:SlateBlue;">**Reviewer Services Conferences**</span>: [MICCAI 2024,2025,2026](https://miccai.org/index.php/), [ARR 2024, 2025](https://aclrollingreview.org/), [ICLR 2025, 2026](https://iclr.cc/), [MIUA 2025](https://conferences.leeds.ac.uk/miua/), [ShapeMI 2025](https://shapemi.github.io/), [ISBI 2026](https://biomedicalimaging.org/2026/), [MIDL 2026](https://2026.midl.io/)
+<span style="color:SlateBlue;">**Reviewer Services Conferences**</span>: [MICCAI 2024,2025,2026](https://miccai.org/index.php/), [ARR 2024, 2025](https://aclrollingreview.org/), [ICLR 2025, 2026](https://iclr.cc/), [MIUA 2025, 2026](https://conferences.leeds.ac.uk/miua/), [ShapeMI 2025](https://shapemi.github.io/), [ISBI 2026](https://biomedicalimaging.org/2026/), [MIDL 2026](https://2026.midl.io/), [Neurips 2026 Evaluation and Datasets Track](https://neurips.cc/Conferences/2026/CallForEvaluationsDatasets)
 
 <span style="color:SlateBlue;">**Reviewer Services Journal**</span>: [Medical Image Analysis 2025](https://www.sciencedirect.com/journal/medical-image-analysis), [Nature Communication](https://www.nature.com/ncomms/), [IEEE JBHI](https://www.embs.org/jbhi/), [IEEE TMI](https://ieeetmi.org/) 
 
+<span style="color:black;">**Summer Internship**</span>: [Johnson and Johnson Innvoation, Research Intern-Pathology Digital Imaging, Summer 2024](https://www.jnj.com/), [Bristol Myers Squibb, Data Science Summer Intern, Summer 2026](https://www.bms.com/) 
+
 <span style="color:blue;">Recent News</span>
 ------
+
+- [**Aug 2026 - May 2026, Data Science Intern**] <span style="color:brown;"> **Summer Internship at Bristol Myers Squibb as a Data Science in oncology team for Tumor/Lesion segmentation on 3D CT images.** </span>
+
+- [**Aug 2026, Accepted to MLMI 2026**] [***Inference-Time Orthogonal Seeding Enables Geometry-Aligned 3D Organ Segmentation for Slice-Propagation Methods***](https://arxiv.org/abs/2407.15260)
+
+	<span style="color:red;">Author List</span>: Md Rakibul Haque, **Tushar Kataria**, Shireen Y. Elhabian
+
+- [**July 2026, Accepted to ShapeMI 2026**] [***On the Viability of Semi-Supervised Segmentation Methods for Statistical Shape Modeling***](https://arxiv.org/abs/2407.15260)
+
+	<span style="color:red;">Author List</span>: <span style="color:magenta;">Asma Khan</span>, <span style="color:magenta;">**Tushar Kataria**</span>, Janmesh Ukey, Shireen Y. Elhabian
+
+- [**July 2026, Under Review at MedIA**] [***IMPLICITSTAINER: Resolution Agnostic Data-Efficient Virtual Staining Using Neural Implicit Functions***](https://arxiv.org/abs/2505.09831)
+
+	<span style="color:red;">Author List</span>: **Tushar Kataria**, Beatrice Knudsen, Shireen  Elhabian.
+
+- [**April 2026, Accepted to MICCAI 2026**] [***MedConcept: Unsupervised Concept Discovery for Interpretability in Medical VLMs***](https://arxiv.org/abs/2604.11868)
+
+	<span style="color:red;">Author List</span>: Md Rakibul Haque, KM Sultan, **Tushar Kataria**, Shireen Elhabian.
+
 - [**Feb 2026, WACV 2026**] [***MapVerse: A Benchmark for Geospatial Question Answering on Diverse Real-World Maps***]()
 
 	<span style="color:red;">Author List</span>: Sharat Bhat, Harshita Khandelwal, **Tushar Kataria**, Vivek Gupta.
-
-- [**March 2025 -April 2025**] <span style="color:brown;"> **Passed My Written PhD Qualifying Exam.** </span>
 
 
 <span style="color:IndianRed;">Archived Papers</span>
 ------
 
-- [**April 2026, Archive Version**] [***IMPLICITSTAINER: Resolution Agnostic Data-Efficient Virtual Staining Using Neural Implicit Functions***](https://arxiv.org/abs/2505.09831)
+- [**Aug 2026, Archive Version**] [***StainDiffuser: MultiTask Dual Diffusion Model for Virtual Staining***](https://arxiv.org/abs/2403.11340)
 
 	<span style="color:red;">Author List</span>: **Tushar Kataria**, Beatrice Knudsen, Shireen  Elhabian.
-
-- [**Mar 2026, Archive Version**] [***MedConcept: Unsupervised Concept Discovery for Interpretability in Medical VLMs***](https://arxiv.org/abs/2604.11868)
-
-	<span style="color:red;">Author List</span>: Md Rakibul Haque, KM Sultan, **Tushar Kataria**, Shireen Elhabian.
-
-- [**Mar 2026, Archive Version**] [***MorphoFlow: Sparse-Supervised Generative Shape Modeling with Adaptive Latent Relevance***](https://arxiv.org/abs/2604.11636)
-
-	<span style="color:red;">Author List</span>: Mokshagna Sai Teja Karanam, **Tushar Kataria**, Shireen Elhabian.
 
 - [**Nov 2025, Archive Version**] [***Building Trust in Virtual Immunohistochemistry: Automated Assessment of Image Quality***](https://arxiv.org/abs/2511.04615)
 
 	<span style="color:red;">Author List</span>: **Tushar Kataria**,Shikha Dubey, Mary Bronner, Jolanta Jedrzkiewicz, Ben J. Brintz,<span style="color:magenta;">Shireen Elhabian</span>, <span style="color:magenta;">Beatrice Knudsen</span>.
-
-- [**Mar 2025, Archive Version**] [***On the Viability of Semi-Supervised Segmentation Methods for Statistical Shape Modeling***](https://arxiv.org/abs/2407.15260)
-
-	<span style="color:red;">Author List</span>: <span style="color:magenta;">Asma Khan</span>, <span style="color:magenta;">**Tushar Kataria**</span>, Janmesh Ukey, Shireen Y. Elhabian
-
-- [**Mar 2024, Archive Version**] [***StainDiffuser: MultiTask Dual Diffusion Model for Virtual Staining***](https://arxiv.org/abs/2403.11340)
-
-	<span style="color:red;">Author List</span>: **Tushar Kataria**, Beatrice Knudsen, Shireen  Elhabian.
-
-- [**May 2025, Archive Version**] [***BoundarySeg:An Embarrassingly Simple Method To Boost Medical Image Segmentation Performance for Low Data Regimes***](https://arxiv.org/abs/2505.09829)
-
-	<span style="color:red;">Author List</span>: **Tushar Kataria**, Shireen  Elhabian.
 
 <span style="color:magenta;">Equal Contribution</span>
 
