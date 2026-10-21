@@ -9,12 +9,12 @@ author_profile: true
 
 | Conference | Year |
 |------------|------|
-{% for c in site.data.reviewing.conferences %}| {{ c.name }} | {{ c.years }} |
+{% for c in site.data.reviewing.conferences %}| [{{ c.name }}]({{ c.url }}) | {{ c.years }} |
 {% endfor %}
 
 ## Journals
 
 | Journal | Year |
 |---------|------|
-{% for j in site.data.reviewing.journals %}| {{ j.name }} | {{ j.years }} |
+{% for j in site.data.reviewing.journals %}| [{{ j.name }}]({{ j.url }}) | {{ j.years }} |
 {% endfor %}
