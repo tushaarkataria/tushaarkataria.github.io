@@ -34,7 +34,6 @@ Hello, I am Tushar Kataria, a PhD candidate at [University of Utah](https://www.
     background-size: 100% 2.5em, 100% 2.5em, 100% 0.8em, 100% 0.8em;
     background-attachment: local, local, scroll, scroll;
   }
-  .scroll-box summary { cursor: pointer; font-weight: bold; margin: 0.3em 0 0.6em; }
   .scroll-box li { margin-bottom: 0.6em; }
   .scroll-box p { margin: 0.2em 0; }
 </style>
@@ -67,9 +66,6 @@ My broader research interests lie in **image processing, medical image processin
 
 	<span style="color:red;">Author List</span>: Md Rakibul Haque, **Tushar Kataria**, Shireen Y. Elhabian
 
-<details markdown="1">
-<summary>Show older news</summary>
-
 - [**Aug 2026, Accepted to ShapeMI 2026**] [***On the Viability of Semi-Supervised Segmentation Methods for Statistical Shape Modeling***](https://arxiv.org/abs/2407.15260)
 
 	<span style="color:red;">Author List</span>: <span style="color:magenta;">Asma Khan</span>, <span style="color:magenta;">**Tushar Kataria**</span>, Janmesh Ukey, Shireen Y. Elhabian
@@ -82,8 +78,6 @@ My broader research interests lie in **image processing, medical image processin
 - [**Feb 2026, WACV 2026**] [***MapVerse: A Benchmark for Geospatial Question Answering on Diverse Real-World Maps***](https://arxiv.org/abs/2602.10518)
 
 	<span style="color:red;">Author List</span>: Sharat Bhat, Harshita Khandelwal, **Tushar Kataria**, Vivek Gupta.
-
-</details>
 
 </div>
 
@@ -104,9 +98,6 @@ My broader research interests lie in **image processing, medical image processin
 
 	<span style="color:red;">Author List</span>: **Tushar Kataria**, Beatrice Knudsen, Shireen Elhabian.
 
-<details markdown="1">
-<summary>Show more papers</summary>
-
 - [**Nov 2025, Archive Version**] [***Building Trust in Virtual Immunohistochemistry: Automated Assessment of Image Quality***](https://arxiv.org/abs/2511.04615)
 
 	<span style="color:red;">Author List</span>: **Tushar Kataria**, Shikha Dubey, Mary Bronner, Jolanta Jedrzkiewicz, Ben J. Brintz, <span style="color:magenta;">Shireen Elhabian</span>, <span style="color:magenta;">Beatrice Knudsen</span>.
@@ -114,8 +105,6 @@ My broader research interests lie in **image processing, medical image processin
 - [**May 2025, Archive Version**] [***StainDiffuser: MultiTask Dual Diffusion Model for Virtual Staining***](https://arxiv.org/abs/2403.11340)
 
 	<span style="color:red;">Author List</span>: **Tushar Kataria**, Beatrice Knudsen, Shireen Elhabian.
-
-</details>
 
 </div>
 
