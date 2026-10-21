@@ -12,7 +12,7 @@ Hello, I am Tushar Kataria, a PhD candidate at [University of Utah](https://www.
 
 <style>
   .scroll-box {
-    max-height: 24em;
+    max-height: 18em;
     overflow-y: auto;
     padding: 0.5em 1em;
     margin-bottom: 1.5em;
