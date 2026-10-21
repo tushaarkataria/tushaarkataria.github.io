@@ -36,7 +36,7 @@ My broader research interests lie in **image processing, medical image processin
 
 <span style="color:purple;">**Past Collaborators**</span>: [Shikha Dubey](https://sites.google.com/view/shikha-dubey/), [Krithika Iyer](https://www.linkedin.com/in/iyerkrithika21/), [Jadie Adams](http://www.sci.utah.edu/~jadie/), [Rachaell Nihalaani](https://www.linkedin.com/in/rachaell-nihalaani/), [Janmesh Ukey](https://www.linkedin.com/in/janmesh-ukey/)  
 
-<span style="color:black;">**Summer Internship**</span>: [Johnson and Johnson Innovation, Research Intern-Pathology Digital Imaging, Summer 2024](https://www.jnj.com/), [Bristol Myers Squibb, Data Science Summer Intern, Summer 2026](https://www.bms.com/) 
+<span style="color:black;">**Summer Internships**</span>: [Johnson and Johnson Innovation, Research Intern-Pathology Digital Imaging, Summer 2024](https://www.jnj.com/), [Bristol Myers Squibb, Data Science Summer Intern, Summer 2026](https://www.bms.com/) 
 
 <span style="color:blue;">Recent News</span>
 ------
