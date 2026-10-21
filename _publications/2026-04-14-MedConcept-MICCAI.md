@@ -6,5 +6,6 @@ excerpt: "While medical Vision-Language models (VLMs) achieve strong performance
 date: 2026-04-14
 venue: "International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)"
 archive: https://arxiv.org/abs/2604.11868
+code: https://github.com/RakibulHaqueSajal/MedConcept
 citation: "Md Rakibul Haque, KM Arefeen Sultan, Tushar Kataria, Shireen Elhabian. \"MedConcept: Unsupervised Concept Discovery for Interpretability in Medical VLMs.\" In International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2026."
 ---
