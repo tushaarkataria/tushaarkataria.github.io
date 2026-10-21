@@ -20,6 +20,7 @@ Hello, I am Tushar Kataria, a PhD candidate at [University of Utah](https://www.
     margin-bottom: 1.5em;
     border: 1px solid #e0e0e0;
     border-radius: 6px;
+    scrollbar-width: none;
     font-size: 0.85em;
     line-height: 1.4;
   }
@@ -34,6 +35,7 @@ Hello, I am Tushar Kataria, a PhD candidate at [University of Utah](https://www.
     background-size: 100% 2.5em, 100% 2.5em, 100% 0.8em, 100% 0.8em;
     background-attachment: local, local, scroll, scroll;
   }
+  .scroll-box::-webkit-scrollbar { display: none; }
   .scroll-box li { margin-bottom: 0.6em; }
   .scroll-box p { margin: 0.2em 0; }
 </style>
@@ -114,11 +116,12 @@ My broader research interests lie in **image processing, medical image processin
 
 
 <script>
-  // Hover near the top/bottom edge of a scroll box to scroll it; faster closer to the edge.
+  /* Hover near the top/bottom edge of a scroll box to scroll it; faster closer to the edge.
+     Use block comments only: the compress layout joins lines, so line comments would swallow the code. */
   document.addEventListener("DOMContentLoaded", function () {
     if (!window.matchMedia("(hover: hover) and (pointer: fine)").matches) return;
     if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
-    var ZONE = 0.25, MAX_SPEED = 6; // zone height as fraction of box, pixels per frame
+    var ZONE = 0.25, MAX_SPEED = 6; /* zone height as fraction of box, pixels per frame */
     document.querySelectorAll(".scroll-box").forEach(function (box) {
       var speed = 0, frame = null;
       function step() {
