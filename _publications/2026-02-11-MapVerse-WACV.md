@@ -1,0 +1,10 @@
+---
+title: "MapVerse: A Benchmark for Geospatial Question Answering on Diverse Real-World Maps"
+collection: publications
+permalink: /publication/2026-02-11-MapVerse-WACV
+excerpt: "Maps are powerful carriers of structured and contextual knowledge, encompassing geography, demographics, infrastructure, and environmental patterns. Reasoning over such knowledge requires models to integrate spatial relationships, visual cues, real-world context, and domain-specific expertise-capabilities that current large language models (LLMs) and vision-language models (VLMs) still struggle to exhibit consistently. Yet, datasets used to benchmark VLMs on map-based reasoning remain narrow in scope, restricted to specific domains, and heavily reliant on artificially generated content (outputs from LLMs or pipeline-based methods), offering limited depth for evaluating genuine geospatial reasoning. To address this gap, we present MapVerse, a large-scale benchmark built on real-world maps. It comprises 11,837 human-authored question-answer pairs across 1,025 maps, spanning ten diverse map categories and multiple question categories for each. The dataset provides a rich setting for evaluating map reading, interpretation, and multimodal reasoning. We evaluate ten state-of-the-art models against our benchmark to establish baselines and quantify reasoning gaps. Beyond overall performance, we conduct fine-grained categorical analyses to assess model inference across multiple dimensions and investigate the visual factors shaping reasoning outcomes. Our findings reveal that while current VLMs perform competitively on classification-style tasks, both open- and closed-source models fall short on advanced tasks requiring complex spatial reasoning."
+date: 2026-02-11
+venue: "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)"
+archive: https://arxiv.org/abs/2602.10518
+citation: "Sharat Bhat, Harshita Khandelwal, Tushar Kataria, Vivek Gupta. \"MapVerse: A Benchmark for Geospatial Question Answering on Diverse Real-World Maps.\" In IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026."
+---

@@ -1,0 +1,10 @@
+---
+title: "Inference-Time Orthogonal Seeding Enables Geometry-Aligned 3D Organ Segmentation for Slice-Propagation Methods"
+collection: publications
+permalink: /publication/2026-08-12-OrthogonalSeeding-MLMI
+excerpt: "Dense voxel-level annotation remains a major bottleneck in 3D medical image segmentation. Single-slice propagation methods such as Sli2Vol reduce this burden by propagating one annotated seed slice through a volume using label-free registration. However, axial-only propagation accumulates errors with distance from the seed, especially in surface-distance metrics, because it ignores coronal and sagittal evidence and therefore underuses the 3D information available in CT/MRI volumes. To better leverage volumetric geometry, we study how key training and inference choices affect slice-propagation models, including single-axis versus multi-axis label-free registration, single-seed versus multi-seed propagation, and orthogonal seed configurations. Instead of propagating from a single axial seed, we use three orthogonal seeds---one axial, one coronal, and one sagittal---and fuse their propagated labels with a simple label-free rule. Our results show that the training paradigm has limited impact: an axially trained network applied to off-axis seeds captures nearly all the improvement, while explicit three-axis training adds little. Instead, performance is driven by inference-time seed geometry, especially orthogonality rather than the number of annotated slices, as a budget-matched three-axial control provides no benefit and can even degrade performance. On a multi-organ CT cohort, orthogonal seeding with the axial Sli2Vol backbone improves Dice by 21.9%, Normalized Surface Dice by 25.5%, and reduces Average Hausdorff Distance by 53.5% over the single-axis baseline."
+date: 2026-08-12
+venue: "Machine Learning in Medical Imaging (MLMI), MICCAI"
+archive: https://arxiv.org/abs/2608.12658
+citation: "Md Rakibul Haque, Tushar Kataria, Shireen Y. Elhabian. \"Inference-Time Orthogonal Seeding Enables Geometry-Aligned 3D Organ Segmentation for Slice-Propagation Methods.\" In Machine Learning in Medical Imaging (MLMI), MICCAI 2026."
+---

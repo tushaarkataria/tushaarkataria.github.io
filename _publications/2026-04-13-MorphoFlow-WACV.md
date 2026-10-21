@@ -1,0 +1,11 @@
+---
+title: "MorphoFlow: Sparse-Supervised Generative Shape Modeling with Adaptive Latent Relevance"
+collection: publications
+permalink: /publication/2026-04-13-MorphoFlow-WACV
+excerpt: "Statistical shape modeling (SSM) is central to population level analysis of anatomical variability, yet most existing approaches rely on densely annotated segmentations and fixed latent representations. These requirements limit scalability and reduce flexibility when modeling complex anatomical variation. We introduce MorphoFlow, a sparse supervised generative shape modeling framework that learns compact probabilistic shape representations directly from sparse surface annotations. MorphoFlow integrates neural implicit shape representations with an autodecoder formulation and autoregressive normalizing flows to learn an expressive probabilistic density over the latent shape space. The neural implicit representation enables resolution-agnostic modeling of 3D anatomy, while the autodecoder formulation supports direct optimization of per-instance latent codes under sparse supervision. The autoregressive flow captures the distribution of latent anatomical variability providing a tractable, likelihood-based generative model of shapes. To promote compact and structured latent representations, we incorporate adaptive latent relevance weighting through sparsity-inducing priors, enabling the model to regulate the contribution of individual latent dimensions according to their relevance to the underlying anatomical variation while preserving generative expressivity. The resulting latent space supports uncertainty quantification and anatomically plausible shape synthesis without manual latent dimensionality tuning. Evaluation on publicly available lumbar vertebrae and femur datasets demonstrates accurate high-resolution reconstruction from sparse inputs and recovery of structured modes of anatomical variation consistent with population level trends."
+date: 2026-04-13
+year: 2027
+venue: "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)"
+archive: https://arxiv.org/abs/2604.11636
+citation: "Mokshagna Sai Teja Karanam, Tushar Kataria, Shireen Elhabian. \"MorphoFlow: Sparse-Supervised Generative Shape Modeling with Adaptive Latent Relevance.\" In IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2027."
+---

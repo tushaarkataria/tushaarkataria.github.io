@@ -33,7 +33,7 @@ My broader research interests lie in **image processing, medical image processin
 
 - [**Aug 2026 - May 2026, Data Science Intern**] <span style="color:brown;"> **Summer Internship at Bristol Myers Squibb as a Data Science in oncology team for Tumor/Lesion segmentation on 3D CT images.** </span>
 
-- [**Aug 2026, Accepted to MLMI 2026**] [***Inference-Time Orthogonal Seeding Enables Geometry-Aligned 3D Organ Segmentation for Slice-Propagation Methods***](https://arxiv.org/abs/2407.15260)
+- [**Aug 2026, Accepted to MLMI 2026**] [***Inference-Time Orthogonal Seeding Enables Geometry-Aligned 3D Organ Segmentation for Slice-Propagation Methods***](https://arxiv.org/abs/2608.12658)
 
 	<span style="color:red;">Author List</span>: Md Rakibul Haque, **Tushar Kataria**, Shireen Y. Elhabian
 
@@ -46,7 +46,7 @@ My broader research interests lie in **image processing, medical image processin
 
 	<span style="color:red;">Author List</span>: Md Rakibul Haque, KM Sultan, **Tushar Kataria**, Shireen Elhabian.
 
-- [**Feb 2026, WACV 2026**] [***MapVerse: A Benchmark for Geospatial Question Answering on Diverse Real-World Maps***]()
+- [**Feb 2026, WACV 2026**] [***MapVerse: A Benchmark for Geospatial Question Answering on Diverse Real-World Maps***](https://arxiv.org/abs/2602.10518)
 
 	<span style="color:red;">Author List</span>: Sharat Bhat, Harshita Khandelwal, **Tushar Kataria**, Vivek Gupta.
 

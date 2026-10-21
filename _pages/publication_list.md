@@ -20,7 +20,7 @@ redirect_from:
   <li style="margin-bottom: 1em;">
     {{ cite }}
     <br>
-    <i>{{ pub.venue }}</i>, {{ pub.date | date: "%Y" }}.
+    <i>{{ pub.venue }}</i>, {% if pub.year %}{{ pub.year }}{% else %}{{ pub.date | date: "%Y" }}{% endif %}.
     {% if pub.paperurl %}[<a href="{{ pub.paperurl }}">Paper</a>]{% endif %}
     {% if pub.archive %}[<a href="{{ pub.archive }}">arXiv</a>]{% endif %}
     [<a href="{{ base_path }}{{ pub.url }}">Abstract</a>]
