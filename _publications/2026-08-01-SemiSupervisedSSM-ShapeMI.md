@@ -6,5 +6,5 @@ excerpt: "Statistical Shape Models (SSMs) excel at identifying population level 
 date: 2026-08-01
 venue: "Shape in Medical Imaging (ShapeMI), MICCAI"
 archive: https://arxiv.org/abs/2407.15260
-citation: "Asma Khan, Tushar Kataria, Janmesh Ukey, Shireen Y. Elhabian. \"On the Viability of Semi-Supervised Segmentation Methods for Statistical Shape Modeling.\" In Shape in Medical Imaging (ShapeMI), MICCAI 2026."
+citation: "Asma Khan*, Tushar Kataria*, Janmesh Ukey, Shireen Y. Elhabian. \"On the Viability of Semi-Supervised Segmentation Methods for Statistical Shape Modeling.\" In Shape in Medical Imaging (ShapeMI), MICCAI 2026."
 ---

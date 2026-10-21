@@ -27,3 +27,5 @@ redirect_from:
   </li>
 {% endfor %}
 </ol>
+
+\* Equal contribution
