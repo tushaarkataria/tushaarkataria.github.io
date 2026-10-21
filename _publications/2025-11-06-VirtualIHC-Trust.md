@@ -7,5 +7,5 @@ date: 2025-11-06
 venue: "arXiv preprint arXiv:2511.04615"
 archive: https://arxiv.org/abs/2511.04615
 code: https://github.com/tushaarkataria/Virtual-Staining-Evaluation
-citation: "Tushar Kataria, Shikha Dubey, Mary Bronner, Jolanta Jedrzkiewicz, Ben J. Brintz, Shireen Y. Elhabian, Beatrice S. Knudsen. \"Building Trust in Virtual Immunohistochemistry: Automated Assessment of Image Quality.\" arXiv preprint arXiv:2511.04615 (2025)."
+citation: "Tushar Kataria, Shikha Dubey, Mary Bronner, Jolanta Jedrzkiewicz, Ben J. Brintz, Shireen Y. Elhabian*, Beatrice S. Knudsen*. \"Building Trust in Virtual Immunohistochemistry: Automated Assessment of Image Quality.\" arXiv preprint arXiv:2511.04615 (2025)."
 ---
