@@ -11,6 +11,8 @@ redirect_from:
 Hello, I am Tushar Kataria, a PhD candidate at [University of Utah](https://www.utah.edu/) in the [School of Computing](https://www.cs.utah.edu/). I am in the [Scientific Computing and Imaging Institute](https://www.sci.utah.edu/) advised by [Prof. Shireen Elhabian](https://www.sci.utah.edu/~shireen/).
 
 <style>
+  .page__content p { margin-bottom: 0.6em; }
+  .page__content h2 { margin-top: 1.2em; }
   .scroll-box {
     max-height: 18em;
     overflow-y: auto;
