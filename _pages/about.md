@@ -58,7 +58,7 @@ My broader research interests lie in **image processing, medical image processin
 
 <div class="scroll-box" markdown="1">
 
-- [**April 2026, Accepted to WACV 2027**] [***MorphoFlow: Sparse-Supervised Generative Shape Modeling with Adaptive Latent Relevance***](https://arxiv.org/abs/2604.11636)
+- [**October 2026, Accepted to WACV 2027**] [***MorphoFlow: Sparse-Supervised Generative Shape Modeling with Adaptive Latent Relevance***](https://arxiv.org/abs/2604.11636)
 
 	<span style="color:red;">Author List</span>: Mokshagna Sai Teja Karanam, **Tushar Kataria**, Shireen Elhabian.
 
