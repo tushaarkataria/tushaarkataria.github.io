@@ -3,7 +3,7 @@ title: "TA/TM CS7640 Spring 2024, Advanced Image Processing"
 collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2024-UofU-Spring-2
-venue: "University of Utah, Kalhert School of Computing"
+venue: "University of Utah, Kahlert School of Computing"
 date: 2024-01-10
 location: "Salt Lake City, Utah, USA"
 ---
