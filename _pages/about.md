@@ -112,3 +112,28 @@ My broader research interests lie in **image processing, medical image processin
 
 [See all publications →](/publication_list/)
 
+
+<script>
+  // Hover near the top/bottom edge of a scroll box to scroll it; faster closer to the edge.
+  document.addEventListener("DOMContentLoaded", function () {
+    if (!window.matchMedia("(hover: hover) and (pointer: fine)").matches) return;
+    if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+    var ZONE = 0.25, MAX_SPEED = 6; // zone height as fraction of box, pixels per frame
+    document.querySelectorAll(".scroll-box").forEach(function (box) {
+      var speed = 0, frame = null;
+      function step() {
+        box.scrollTop += speed;
+        frame = speed ? requestAnimationFrame(step) : null;
+      }
+      box.addEventListener("mousemove", function (e) {
+        var rect = box.getBoundingClientRect();
+        var y = (e.clientY - rect.top) / rect.height;
+        if (y < ZONE) speed = -MAX_SPEED * (1 - y / ZONE);
+        else if (y > 1 - ZONE) speed = MAX_SPEED * (1 - (1 - y) / ZONE);
+        else speed = 0;
+        if (speed && !frame) frame = requestAnimationFrame(step);
+      });
+      box.addEventListener("mouseleave", function () { speed = 0; });
+    });
+  });
+</script>
