@@ -1,0 +1,10 @@
+# Reviewer services, shown on /reviewer_services/
+# Add one entry per venue; list years as a comma-separated string.
+
+conferences:
+  - name: "Conference Name (e.g. MICCAI)"
+    years: "2024, 2025"
+
+journals:
+  - name: "Journal Name (e.g. Medical Image Analysis)"
+    years: "2025"
