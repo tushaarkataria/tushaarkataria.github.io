@@ -23,6 +23,7 @@ redirect_from:
     <i>{{ pub.venue }}</i>, {% if pub.year %}{{ pub.year }}{% else %}{{ pub.date | date: "%Y" }}{% endif %}.
     {% if pub.paperurl %}[<a href="{{ pub.paperurl }}">Paper</a>]{% endif %}
     {% if pub.archive %}[<a href="{{ pub.archive }}">arXiv</a>]{% endif %}
+    {% if pub.code %}[<a href="{{ pub.code }}">Code</a>]{% endif %}
     [<a href="{{ base_path }}{{ pub.url }}">Abstract</a>]
   </li>
 {% endfor %}

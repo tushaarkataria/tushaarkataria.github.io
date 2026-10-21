@@ -6,5 +6,6 @@ excerpt: "Hematoxylin and eosin (H&E)-stained slides are central to cancer diagn
 date: 2026-07-01
 venue: "arXiv preprint arXiv:2505.09831"
 archive: https://arxiv.org/abs/2505.09831
+code: https://github.com/tushaarkataria/ImplicitStainer
 citation: "Tushar Kataria, Beatrice Knudsen, Shireen Y. Elhabian. \"IMPLICITSTAINER: Resolution Agnostic Data-Efficient Virtual Staining Using Neural Implicit Functions.\" arXiv preprint arXiv:2505.09831 (2026)."
 ---

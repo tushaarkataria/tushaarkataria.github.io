@@ -6,5 +6,6 @@ excerpt: "Data scarcity is a primary bottleneck in 3D medical image segmentation
 date: 2026-09-01
 venue: "arXiv preprint arXiv:2505.09829"
 archive: https://arxiv.org/abs/2505.09829
+code: https://github.com/tushaarkataria/BoundarySeg
 citation: "Tushar Kataria, Shireen Y. Elhabian. \"BoundarySeg: Boundary-Aware Multi-Task Learning for Semi-Supervised 3D Medical Image Segmentation with Limited Unlabeled Data.\" arXiv preprint arXiv:2505.09829 (2026)."
 ---

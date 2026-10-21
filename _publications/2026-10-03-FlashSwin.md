@@ -6,5 +6,6 @@ excerpt: "High-resolution vision backbones have long been forced to trade away l
 date: 2026-10-03
 venue: "arXiv preprint arXiv:2610.04664"
 archive: https://arxiv.org/abs/2610.04664
+code: https://github.com/tushaarkataria/FlashSwin
 citation: "Tushar Kataria, Gerald Sabin, Ponnuswamy Sadayappan, Shireen Y. Elhabian. \"FLASHSWIN: Unlocking Large Windows and Dense Tokens in Swin Vision Transformers with Memory Efficient Attention.\" arXiv preprint arXiv:2610.04664 (2026)."
 ---

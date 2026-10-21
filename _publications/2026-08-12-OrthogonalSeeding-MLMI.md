@@ -6,5 +6,6 @@ excerpt: "Dense voxel-level annotation remains a major bottleneck in 3D medical 
 date: 2026-08-12
 venue: "Machine Learning in Medical Imaging (MLMI), MICCAI"
 archive: https://arxiv.org/abs/2608.12658
+code: https://github.com/RakibulHaqueSajal/SlicePropagation
 citation: "Md Rakibul Haque, Tushar Kataria, Shireen Y. Elhabian. \"Inference-Time Orthogonal Seeding Enables Geometry-Aligned 3D Organ Segmentation for Slice-Propagation Methods.\" In Machine Learning in Medical Imaging (MLMI), MICCAI 2026."
 ---
