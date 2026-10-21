@@ -6,5 +6,6 @@ excerpt: "Maps are powerful carriers of structured and contextual knowledge, enc
 date: 2026-02-11
 venue: "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)"
 archive: https://arxiv.org/abs/2602.10518
+code: https://github.com/CoRAL-ASU/MapVerse
 citation: "Sharat Bhat, Harshita Khandelwal, Tushar Kataria, Vivek Gupta. \"MapVerse: A Benchmark for Geospatial Question Answering on Diverse Real-World Maps.\" In IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026."
 ---
