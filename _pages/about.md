@@ -88,6 +88,14 @@ My broader research interests lie in **image processing, medical image processin
 
 <div class="scroll-box" markdown="1">
 
+- [**Nov 2026, Archive Version**] [***Anchored Slice Propagation with Boundary Transport for 3D CT Segmentation from Three Orthogonal Annotated Slices***](https://arxiv.org/abs/2611.05693)
+
+	<span style="color:red;">Author List</span>: **Tushar Kataria**, Md Rakibul Haque, Shireen Y. Elhabian.
+
+- [**Nov 2026, Archive Version**] [***Lesion Overlap Ranks PET Segmentation Models but Does Not Certify Patient-Level Tumor Burden***](https://arxiv.org/abs/2611.05564)
+
+	<span style="color:red;">Author List</span>: **Tushar Kataria**, Gerald Sabin, Ponnuswamy Sadayappan, Shireen Y. Elhabian.
+
 - [**Sep 2026, Archive Version**] [***FLASHSWIN: Unlocking Large Windows and Dense Tokens in Swin Vision Transformers with Memory Efficient Attention***](https://arxiv.org/abs/2610.04664)
 
 	<span style="color:red;">Author List</span>: **Tushar Kataria**, Gerald Sabin, Ponnuswamy Sadayappan, Shireen Y. Elhabian.
